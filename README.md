@@ -5,10 +5,15 @@
 
 ## Data Structures
 * [Array](https://github.com/JSDWRLD/LeetCode-Solutions#array)
-* [HashMaps](https://github.com/JSDWRLD/LeetCode-Solutions/tree/main/Arrays)
+* [HashMaps](https://github.com/JSDWRLD/LeetCode-Solutions#hashmap)
 
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-2151 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description//) | [Java](./Arrays/Merge_Sorted_Array.java) | _O(n)_ | _O(1)_ | Easy || Arrays
+88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](./Arrays/Merge_Sorted_Array.java) | _O(n)_ | _O(1)_ | Easy || Arrays
+
+## HashMap
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Java](./Maps/valid_anagram.java) | _O(log n)_ | _O(n + m)_ | Easy || HashMap
