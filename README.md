@@ -4,8 +4,8 @@
 * Repository grows as I progress futher in my LeetCoding journey.
 
 ## Data Structures
-* [Array](https://github.com/JSDWRLD/LeetCode-Solutions#array)
-* [HashMaps](https://github.com/JSDWRLD/LeetCode-Solutions#hashmap)
+* [Array](https://github.com/JSDWRLD/LeetCode-Solutions-Java#array)
+* [HashMaps](https://github.com/JSDWRLD/LeetCode-Solutions-Java#hashmap)
 
 
 ## Array
