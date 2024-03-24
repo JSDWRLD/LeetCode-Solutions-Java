@@ -1,8 +1,8 @@
 # [LeetCode Solutions in Java](https://leetcode.com/problemset/all/)
 
+* [My LeetCode Profile](https://leetcode.com/JSDWRLD/)
 * This is a repository filed with my LeetCode solutions along with its time complexity and space complexity.
 * Repository grows as I progress futher in my LeetCoding journey.
-* [My LeetCode Profile](https://leetcode.com/JSDWRLD/)
 
 ## Data Structures
 * [Array](https://github.com/JSDWRLD/LeetCode-Solutions-Java#array)
