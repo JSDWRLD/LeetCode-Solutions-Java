@@ -19,3 +19,4 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Java](./Maps/valid_anagram.java) | _O(log n)_ | _O(n + m)_ | Easy || HashMap
+1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](./Maps/two_sum.java) | _O(n)_ | _O(n)_ | Easy || HashMap
