@@ -14,6 +14,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](./Arrays/Merge_Sorted_Array.java) | _O(n)_ | _O(1)_ | Easy || Arrays
+347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Java](./Arrays/top_k_frequent_elements.java) | _O(n + k)_ | _O(n + k)_ | Medium || Bucket Sort, Arrays, HashMap/Table
 
 ## HashMap
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
