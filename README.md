@@ -8,6 +8,7 @@
 ## Data Structures
 * [Array](https://github.com/JSDWRLD/LeetCode-Solutions-Java#array)
 * [HashMaps](https://github.com/JSDWRLD/LeetCode-Solutions-Java#hashmap)
+* [Strings](https://github.com/JSDWRLD/LeetCode-Solutions-Java#string)
 
 
 ## Array
@@ -23,7 +24,7 @@
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Java](./Maps/group_anagrams.java) | _O(n * k log k)_ | _O(n)_ | Medium || HashMap, ArrayList
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Java](./Maps/valid_anagram.java) | _O(log n)_ | _O(n + m)_ | Easy || HashMap
 
-## Strings
+## String
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](./Arrays/length_of_last_word.java) | _O(n)_ | _O(1)_ | Easy || Strings
