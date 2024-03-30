@@ -10,6 +10,7 @@
 * [HashMap](https://github.com/JSDWRLD/LeetCode-Solutions-Java#hashmap)
 * [String](https://github.com/JSDWRLD/LeetCode-Solutions-Java#string)
 * [Linked List](https://github.com/JSDWRLD/LeetCode-Solutions-Java#linkedlist)
+* [Stack](https://github.com/JSDWRLD/LeetCode-Solutions-Java#stack)
 
 
 ## Array
@@ -34,3 +35,8 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./LinkedLists/reverse_linked_list.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
+
+## Stack
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+20 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/) | [Java](./Stacks/valid_parenthesis.java) | _O(n)_ | _O(1)_ | Easy || Stacks
