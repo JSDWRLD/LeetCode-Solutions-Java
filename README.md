@@ -39,4 +39,4 @@
 ## Stack
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-20 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/) | [Java](./Stacks/valid_parenthesis.java) | _O(n)_ | _O(1)_ | Easy || Stacks
+20 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/) | [Java](./Stacks/valid_parentheses.java) | _O(n)_ | _O(1)_ | Easy || Stacks
