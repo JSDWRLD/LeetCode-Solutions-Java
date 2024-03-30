@@ -7,8 +7,9 @@
 
 ## Data Structures
 * [Array](https://github.com/JSDWRLD/LeetCode-Solutions-Java#array)
-* [HashMaps](https://github.com/JSDWRLD/LeetCode-Solutions-Java#hashmap)
-* [Strings](https://github.com/JSDWRLD/LeetCode-Solutions-Java#string)
+* [HashMap](https://github.com/JSDWRLD/LeetCode-Solutions-Java#hashmap)
+* [String](https://github.com/JSDWRLD/LeetCode-Solutions-Java#string)
+* [Linked List](https://github.com/JSDWRLD/LeetCode-Solutions-Java#linkedlist)
 
 
 ## Array
@@ -28,3 +29,8 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](./Arrays/length_of_last_word.java) | _O(n)_ | _O(1)_ | Easy || Strings
+
+## LinkedList
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./Arrays/reverse_linked_list.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
