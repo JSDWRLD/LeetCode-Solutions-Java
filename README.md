@@ -35,6 +35,7 @@
 ## LinkedList
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](./LinkedLists/remove_duplicates_from_sorted_list.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./LinkedLists/reverse_linked_list.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
 
 ## Stack
