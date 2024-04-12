@@ -58,4 +58,5 @@
 ## DynamicProgramming
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./DynamicProgramming/climbing_stairs.java) | _O(n)_ | _O(n)_ | Easy || Memoization
+70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./DynamicProgramming/climbing_stairs.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
+509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Java](./DynamicProgramming/fibonacci_number.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
