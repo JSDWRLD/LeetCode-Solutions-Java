@@ -12,7 +12,7 @@
 * [Stack](https://github.com/JSDWRLD/LeetCode-Solutions-Java#stack)
 
 ## Dynamic Programming
-* [Dynamic Programming](https://github.com/JSDWRLD/LeetCode-Solutions-Java#dynamicprogramming)
+* [Memoization](https://github.com/JSDWRLD/LeetCode-Solutions-Java#memoization)
 
 
 ## Array
@@ -58,7 +58,7 @@
 20 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/) | [Java](./Stacks/valid_parentheses.java) | _O(n)_ | _O(1)_ | Easy || Stacks
 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./Stacks/min_stack.java) | _O(1)_ | _O(n)_ | Medium | Design | Stacks
 
-## DynamicProgramming
+## Memoization
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./DynamicProgramming/climbing_stairs.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
