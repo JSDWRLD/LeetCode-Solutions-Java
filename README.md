@@ -19,6 +19,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Java](./Arrays/container_with_most_water.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Two Pointer, Greedy
+33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Java](./Arrays/search_in_rotated_sorted_array.java) | _O(log n)_ | _O(1)_ | Medium || Arrays, Binary Search
 66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](./Arrays/plus_one.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](./Arrays/Merge_Sorted_Array.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](./Arrays/best_time_to_buy_and_sell_stock.java) | _O(n)_ | _O(1)_ | Easy || Arrays, Sliding Window
