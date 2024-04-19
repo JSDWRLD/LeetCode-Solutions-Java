@@ -37,7 +37,7 @@
 ## Matrix:Grid
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-1 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Java](./Matrix:Grid/search_a_2d_matrix.java) | _O(log m + n)_ | _O(1)_ | Medium || Arrays, Matrix, Binary Search
+74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Java](./Matrix:Grid/search_a_2d_matrix.java) | _O(log m + n)_ | _O(1)_ | Medium || Arrays, Matrix, Binary Search
 
 ## HashMap
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
