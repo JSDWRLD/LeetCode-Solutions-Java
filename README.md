@@ -60,6 +60,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Java](./LinkedLists/remove_nth_node_from_end_of_list.java) | _O(n)_ | _O(1)_ | Medium || ListNode, Singly Linked List
+21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Java](./LinkedLists/merge_two_sorted_lists.java) | _O(n)_ | _O(1)_ | Easy || ListNode
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](./LinkedLists/remove_duplicates_from_sorted_list.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./LinkedLists/reverse_linked_list.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
 
