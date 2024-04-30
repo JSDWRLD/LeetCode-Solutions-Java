@@ -20,6 +20,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Java](./Arrays/container_with_most_water.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Two Pointer, Greedy
+15 | [3Sum](https://leetcode.com/problems/3sum/description/) | [Java](./Arrays/3sum.java) | _O(n^2)_ | _O(1)_ | Medium || Arrays, Two Pointer, Sorting
 26 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Java](./Arrays/remove_element.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 27 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](./Arrays/remove_duplicates_from_sorted_array.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Java](./Arrays/search_in_rotated_sorted_array.java) | _O(log n)_ | _O(1)_ | Medium || Arrays, Binary Search
