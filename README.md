@@ -35,6 +35,7 @@
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Java](./Arrays/product_of_array_except_self.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Prefix Sum
 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](./Arrays/maximum_average_subarray_i.java) | _O(n)_ | _O(1)_ | Easy || Sliding Window, Arrays
 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [Java](./Arrays/binary_search.java) | _O(log n)_ | _O(1)_ | Easy || Arrays, Binary Search
+832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Java](./Arrays/flipping_an_image.java) | _O(n * m)_ | _O(1)_ | Easy || Two Pointers, Matrix
 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | [Java](./Arrays/car_fleet.java) | _O(n log n)_ | _O(n)_ | Medium || 2D Array, Quicksort
 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Java](./Arrays/koko_eating_bananas.java) | _O(n log m)_ | _O(1)_ | Medium || Arrays, Binary Search
 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [Java](./Arrays/subarray_sums_divisible_by_k.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Prefix Sum, HashMap
