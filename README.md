@@ -11,6 +11,7 @@
 * [String](https://github.com/JSDWRLD/LeetCode-Solutions-Java#string)
 * [Linked List](https://github.com/JSDWRLD/LeetCode-Solutions-Java#linked-list)
 * [Stack](https://github.com/JSDWRLD/LeetCode-Solutions-Java#stack)
+* [Tree](https://github.com/JSDWRLD/LeetCode-Solutions-Java#tree)
 
 ## Dynamic Programming
 * [Memoization](https://github.com/JSDWRLD/LeetCode-Solutions-Java#memoization)
@@ -84,3 +85,8 @@
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./DynamicProgramming/climbing_stairs.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](./DynamicProgramming/house_robber.java) | _O(n)_ | _O(n)_ | Medium || Memoization, Recursion
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Java](./DynamicProgramming/fibonacci_number.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
+
+## Tree
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Java](./Stacks/invert_binary_tree.java) | _O(n)_ | _O(j)_ | Easy || Tree
