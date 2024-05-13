@@ -91,4 +91,5 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](./Trees/maximum_depth_of_binary_tree.java) | _O(n)_ | _O(n)_ | Easy || Tree
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Java](./Trees/invert_binary_tree.java) | _O(n)_ | _O(n)_ | Easy || Tree
+543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Java](./Trees/diameter_of_binary_tree.java) | _O(n)_ | _O(n)_ | Easy || Binary Tree. Depth-First Search
 
