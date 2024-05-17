@@ -39,6 +39,7 @@
 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Java](./Arrays/flipping_an_image.java) | _O(n * m)_ | _O(1)_ | Easy || Two Pointers, Matrix
 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | [Java](./Arrays/car_fleet.java) | _O(n log n)_ | _O(n)_ | Medium || 2D Array, Quicksort
 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Java](./Arrays/koko_eating_bananas.java) | _O(n log m)_ | _O(1)_ | Medium || Arrays, Binary Search
+908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/) | [Java](./Arrays/smallest_range_i.java) | _O(n)_ | _O(1)_ | Easy || Arrays, Math
 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [Java](./Arrays/subarray_sums_divisible_by_k.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Prefix Sum, HashMap
 
 ## Matrix and Grid
