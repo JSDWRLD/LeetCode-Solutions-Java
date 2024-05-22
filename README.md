@@ -75,6 +75,7 @@
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Java](./LinkedLists/merge_two_sorted_lists.java) | _O(n)_ | _O(1)_ | Easy || ListNode
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](./LinkedLists/remove_duplicates_from_sorted_list.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Java](./LinkedLists/linked_list_cycle.java) | _O(n)_ | _O(1)_ | Easy || Two Pointers, Singly Linked List
+142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Java](./LinkedLists/linked_list_cycle_II.java) | _O(n)_ | _O(1)_ | Medium || Slow/Fast Pointer, Two Pointers
 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [Java](./LinkedLists/reorder_list.java) | _O(n)_ | _O(1)_ | Medium || Two Pointers, Fast and Slow Pointer
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./LinkedLists/reverse_linked_list.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
 
@@ -84,13 +85,6 @@
 20 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/) | [Java](./Stacks/valid_parentheses.java) | _O(n)_ | _O(1)_ | Easy || Stacks
 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./Stacks/min_stack.java) | _O(1)_ | _O(n)_ | Medium | Design | Stacks
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Java](./Stacks/daily_temperatures.java) | _O(n)_ | _O(n)_ | Medium || Array, Monotonic Stack
-
-## Memoization
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./DynamicProgramming/climbing_stairs.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
-198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](./DynamicProgramming/house_robber.java) | _O(n)_ | _O(n)_ | Medium || Memoization, Recursion
-509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Java](./DynamicProgramming/fibonacci_number.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
 
 ## Tree
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -102,3 +96,9 @@
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Java](./Trees/diameter_of_binary_tree.java) | _O(n)_ | _O(h)_ | Easy || Binary Tree. Depth-First Search
 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Java](./Trees/subtree_of_another_tree.java) | _O(n * m)_ | _O(h)_ | Easy || Tree, Depth-First Search
 
+## Memoization
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./DynamicProgramming/climbing_stairs.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
+198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](./DynamicProgramming/house_robber.java) | _O(n)_ | _O(n)_ | Medium || Memoization, Recursion
+509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Java](./DynamicProgramming/fibonacci_number.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
