@@ -1,7 +1,7 @@
 # [LeetCode Solutions in Java](https://leetcode.com/problemset/all/)
 
 * [My LeetCode Profile](https://leetcode.com/JSDWRLD/)
-* This is a repository filed with my LeetCode solutions along with its time complexity and space complexity.
+* This is a repository filed with my LeetCode solutions along with my algorithm analysis.
 * Repository does not include premium leetcode questions.
 
 ## Data Structures
