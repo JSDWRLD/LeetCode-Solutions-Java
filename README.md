@@ -94,6 +94,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 20 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/) | [Java](./Stacks/valid_parentheses.java) | _O(n)_ | _O(1)_ | Easy || Stacks
+150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [Java](./Stacks/evaluate_reverse_polish_notation.java) | _O(n)_ | _O(n)_ | Medium || Math, Arrays
 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./Stacks/min_stack.java) | _O(1)_ | _O(n)_ | Medium | Design | Stacks
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Java](./Stacks/daily_temperatures.java) | _O(n)_ | _O(n)_ | Medium || Array, Monotonic Stack
 
