@@ -2,7 +2,6 @@
 
 * [My LeetCode Profile](https://leetcode.com/JSDWRLD/)
 * This is a repository filed with my LeetCode solutions along with my algorithm analysis.
-* Repository does not include premium leetcode questions.
 
 ## Data Structures
 * [Array](https://github.com/JSDWRLD/LeetCode-Solutions-Java#array)
