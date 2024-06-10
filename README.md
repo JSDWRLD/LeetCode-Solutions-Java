@@ -38,6 +38,7 @@
 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](./Arrays/missing_number.java) | _O(n)_ | _O(1)_ | Easy || Cyclic Sort
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Java](./Arrays/find_the_duplicate_number.java) | _O(n)_ | _O(1)_ | Medium || Slow & Faster Pointer, Two Pointers, Cyclic
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Java](./Arrays/top_k_frequent_elements.java) | _O(n + k)_ | _O(n + k)_ | Medium || Bucket Sort, Arrays, HashMap/Table
+435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [Java](./Arrays/non-overlapping_intervals.java) | _O(n log n)_ | _O(1)_ | Medium || Merge Intervals
 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Java](./Arrays/find_all_numbers_disappeared_in_an_array.java) | _O(n)_ | _O(1)_ | Easy || Cyclic Sort
 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](./Arrays/maximum_average_subarray_i.java) | _O(n)_ | _O(1)_ | Easy || Sliding Window, Arrays
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | [Java](./Arrays/set_mismatch.java) | _O(n)_ | _O(1)_ | Easy || Cyclic Sort
