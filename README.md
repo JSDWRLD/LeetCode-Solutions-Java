@@ -109,6 +109,7 @@
 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Java](./Trees/binary_tree_level_order_traversal_ii.java) | _O(n)_ | _O(n)_ | Medium || Tree, Breadth-First Search
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Java](./Trees/balanced_binary_tree.java) | _O(n)_ | _O(h)_ | Easy || Depth-First Search
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Java](./Trees/minimum_depth_of_binary_tree.java) | _O(n)_ | _O(n)_ | Easy || Breadth-First Search
+112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [Java](./Trees/path_sum.java) | _O(n)_ | _O(n)_ | Easy || Depth-First Search
 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [Java](./Trees/populating_next_right_pointers_in_each_node.java) | _O(n)_ | _O(n)_ | Medium || Breadth-First Search
 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | [Java](./Trees/populating_next_right_pointers_in_each_node_ii.java) | _O(n)_ | _O(n)_ | Medium || Breadth-First Search
 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Java](./Trees/binary_tree_right_side_view.java) | _O(n)_ | _O(n)_ | Medium || Breadth-First Search
