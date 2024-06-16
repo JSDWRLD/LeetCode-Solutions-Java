@@ -113,7 +113,7 @@
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [Java](./Trees/path_sum_ii.java) | _O(n^2)_ | _O(n * log n)_ | Medium || Depth-First Search
 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [Java](./Trees/populating_next_right_pointers_in_each_node.java) | _O(n)_ | _O(n)_ | Medium || Breadth-First Search
 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | [Java](./Trees/populating_next_right_pointers_in_each_node_ii.java) | _O(n)_ | _O(n)_ | Medium || Breadth-First Search
-124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | [Java](./Trees/binary_tree_max_path_sum.java) | _O(n)_ | _O(n)_ | Medium || Depth-First Search
+124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | [Java](./Trees/binary_tree_max_path_sum.java) | _O(n)_ | _O(n)_ | Hard || Depth-First Search
 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [Java](./Trees/sum_root_to_leaf_numbers.java) | _O(n)_ | _O(n)_ | Medium || Breadth-First Search
 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Java](./Trees/binary_tree_right_side_view.java) | _O(n)_ | _O(n)_ | Medium || Breadth-First Search
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Java](./Trees/invert_binary_tree.java) | _O(n)_ | _O(h)_ | Easy || Tree
