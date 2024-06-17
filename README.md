@@ -11,6 +11,8 @@
 * [Linked List](https://github.com/JSDWRLD/LeetCode-Solutions-Java#linked-list)
 * [Stack](https://github.com/JSDWRLD/LeetCode-Solutions-Java#stack)
 * [Tree](https://github.com/JSDWRLD/LeetCode-Solutions-Java#tree)
+* [Heaps/Priority Queue](https://github.com/JSDWRLD/LeetCode-Solutions-Java#heaps-and-priority-queue)
+
 
 ## Dynamic Programming
 * [Memoization](https://github.com/JSDWRLD/LeetCode-Solutions-Java#memoization)
@@ -122,6 +124,11 @@
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Java](./Trees/diameter_of_binary_tree.java) | _O(n)_ | _O(h)_ | Easy || Binary Tree. Depth-First Search
 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Java](./Trees/subtree_of_another_tree.java) | _O(n * m)_ | _O(h)_ | Easy || Tree, Depth-First Search
 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Java](./Trees/average_of_levels_in_binary_tree.java) | _O(n)_ | _O(n)_ | Easy || Tree, Breadth-First Search
+
+## Heaps and Priority Queue
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Java](./heaps_pq/) | _O(n log n)_ | _O(k)_ | Easy || Min-Heap
 
 ## Memoization
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
