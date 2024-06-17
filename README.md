@@ -128,7 +128,7 @@
 ## Heaps and Priority Queue
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Java](./heaps_pq/) | _O(n log n)_ | _O(k)_ | Easy || Min-Heap
+703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Java](./heaps_pq/kth_largest_element_in_a_stream.java) | _O(n log n)_ | _O(k)_ | Easy || Min-Heap
 
 ## Memoization
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
