@@ -129,6 +129,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Java](./Heaps_PQ/kth_largest_element_in_a_stream.java) | _O(n log n)_ | _O(k)_ | Easy || Min-Heap
+1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | [Java](./Heaps_PQ/last_stone_weight.java) | _O(n log n)_ | _O(n)_ | Easy || Max-Heap
 
 ## Memoization
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
