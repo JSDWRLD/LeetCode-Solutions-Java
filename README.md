@@ -1,6 +1,6 @@
 # [LeetCode Solutions in Java](https://leetcode.com/problemset/all/)
 
-* [My LeetCode Profile](https://leetcode.com/JSDWRLD/)
+* [LeetCode Profile](https://leetcode.com/JSDWRLD/)
 * This is a repository filed with my LeetCode solutions along with my algorithm analysis.
 
 ## Data Structures
