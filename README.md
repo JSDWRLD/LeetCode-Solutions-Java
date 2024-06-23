@@ -31,6 +31,7 @@
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](./Arrays/merge_intervals.java) | _O(n log n)_ | _O(n)_ | Medium || Intervals, Sorting, Arrays
 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [Java](./Arrays/insert_interval.java) | _O(n)_ | _O(n)_ | Medium || Intervals, Sorting, Arrays
 66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](./Arrays/plus_one.java) | _O(n)_ | _O(1)_ | Easy || Arrays
+78 | [Subsets](https://leetcode.com/problems/subsets/description/) | [Java](./Arrays/subsets.java) | _O(2^n)_ | _O(2^n)_ | Medium || Backtracking
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](./Arrays/Merge_Sorted_Array.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](./Arrays/best_time_to_buy_and_sell_stock.java) | _O(n)_ | _O(1)_ | Easy || Arrays, Sliding Window
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Java](./Arrays/longest_consecutive_sequence.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Set
