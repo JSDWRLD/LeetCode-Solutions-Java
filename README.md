@@ -1,7 +1,7 @@
 # [LeetCode Solutions in Java](https://leetcode.com/problemset/all/)
 
 * [LeetCode Profile](https://leetcode.com/JSDWRLD/)
-* This is a repository filed with my LeetCode solutions along with my algorithm analysis.
+* This is a repository filed with my LeetCode solutions along with algorithm analysis.
 
 ## Data Structures
 * [Array](https://github.com/JSDWRLD/LeetCode-Solutions-Java#array)
