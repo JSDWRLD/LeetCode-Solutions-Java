@@ -26,6 +26,7 @@
 26 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Java](./Arrays/remove_element.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 27 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](./Arrays/remove_duplicates_from_sorted_array.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Java](./Arrays/search_in_rotated_sorted_array.java) | _O(log n)_ | _O(1)_ | Medium || Arrays, Binary Search
+34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Java](./Arrays/find_first_and_last_position_of_element_in_sorted_array.java) | _O(log n)_ | _O(1)_ | Medium || Arrays, Binary Search
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Java](./Arrays/search_insert_position.java) | _O(log n)_ | _O(1)_ | Easy || Arrays, Binary Search
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Java](./Arrays/trapping_rain_water.java) | _O(n)_ | _O(1)_ | Hard || Two Pointers
 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Java](./Arrays/permutations.java) | _O(n * p!)_ | _O(n * p!)_ | Medium || Breadth-First
