@@ -81,6 +81,7 @@
 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Java](./Strings/find_index_first_occurrence_string.java) | _O(n)_ | _O(1)_ | Easy || Strings
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](./Strings/length_of_last_word.java) | _O(n)_ | _O(1)_ | Easy || Strings
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java](./Strings/valid_palindrome.java) | _O(n)_ | _O(1)_ | Easy || Strings, Two Pointer
+290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Java](./Strings/word_pattern.java) | _O(n)_ | _O(n)_ | Easy || Strings, HashMap
 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Java](./Strings/longest_repeating_character_replacement.java) | _O(n)_ | _O(1)_ | Medium || Hash Table, Sliding Window
 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [Java](./Strings/permutation_in_string.java) | _O(n)_ | _O(1)_ | Medium || Sliding Window
 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Java](./Strings/letter_case_permutation.java) | _O(2^n)_ | _O(2^n)_ | Medium || Subsets
