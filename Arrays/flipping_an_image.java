@@ -1,3 +1,22 @@
+// Best Method, Bitwise XOR to flip the bits
+class Solution {
+    public int[][] flipAndInvertImage(int[][] image) {
+        int len = image[0].length;
+        for (int r = 0; r < image.length; r++) {
+            for (int c = 0; c < (len + 1) / 2; c++) {
+                int tmp = image[r][c] ^ 1;
+                image[r][c] = image[r][len - 1 - c] ^ 1;
+                image[r][len - 1 - c] = tmp;
+            }
+        }
+
+        // Time Complexity: O(r * c)
+        // Space Complexity: O(r * c)
+        return image;
+    }
+}
+
+
 class Solution {
     public int[][] flipAndInvertImage(int[][] image) {
         int rowSize = image[0].length;
@@ -29,8 +48,8 @@ class Solution {
 
         }
 
-        // Time Complexity: O(n * m)
-        // Space Complexity: O(1)
+        // Time Complexity: O(r * c)
+        // Space Complexity: O(r * c)
         return image;
     }
 }
