@@ -41,6 +41,7 @@
 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [Java](./Arrays/single_number.java) | _O(n)_ | _O(1)_ | Easy || Bit Manipulation
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Java](./Arrays/find_minimum_in_rotated_sorted_array.java) | _O(log n)_ | _O(1)_ | Medium || Arrays, Binary Search
 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Java](./Arrays/two_sum_ii_input_array_is_sorted.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Two Pointer, Binary Search
+215 | [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Java](./Arrays/kth_largest_element_in_an_array.java) | _O(n log k)_ | _O(k)_ | Medium || Arrays, Min-Heap
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Java](./Arrays/product_of_array_except_self.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Prefix Sum
 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [Java](./Arrays/single_number_iii.java) | _O(n)_ | _O(1)_ | Medium || Bit Manipulation
 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](./Arrays/missing_number.java) | _O(n)_ | _O(1)_ | Easy || Cyclic Sort
