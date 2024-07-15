@@ -41,7 +41,6 @@
 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [Java](./Arrays/single_number.java) | _O(n)_ | _O(1)_ | Easy || Bit Manipulation
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Java](./Arrays/find_minimum_in_rotated_sorted_array.java) | _O(log n)_ | _O(1)_ | Medium || Arrays, Binary Search
 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Java](./Arrays/two_sum_ii_input_array_is_sorted.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Two Pointer, Binary Search
-215 | [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Java](./Arrays/kth_largest_element_in_an_array.java) | _O(n log k)_ | _O(k)_ | Medium || Arrays, Min-Heap
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Java](./Arrays/product_of_array_except_self.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Prefix Sum
 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [Java](./Arrays/single_number_iii.java) | _O(n)_ | _O(1)_ | Medium || Bit Manipulation
 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](./Arrays/missing_number.java) | _O(n)_ | _O(1)_ | Easy || Cyclic Sort
@@ -143,9 +142,11 @@
 ## Heaps and Priority Queue
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+215 | [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Java](./Heaps_PQ/kth_largest_element_in_an_array.java) | _O(n log k)_ | _O(k)_ | Medium || Arrays, Min-Heap
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Java](./Heaps_PQ/find_median_from_data_stream.java) | _O(log n)_ | _O(n)_ | Hard || Two-Heaps
 502 | [IPO](https://leetcode.com/problems/ipo/description/) | [Java](./Heaps_PQ/IPO.java) | _O(n log n)_ | _O(n)_ | Hard || Two-Heaps
 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Java](./Heaps_PQ/kth_largest_element_in_a_stream.java) | _O(n log n)_ | _O(k)_ | Easy || Min-Heap
+973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [Java](./Heaps_PQ/k_closest_points_to_origin.java) | _O(n log k)_ | _O(k)_ | Medium || Max-Heap
 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | [Java](./Heaps_PQ/last_stone_weight.java) | _O(n log n)_ | _O(n)_ | Easy || Max-Heap
 
 ## Graphs
