@@ -50,6 +50,7 @@
 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Java](./Arrays/find_all_numbers_disappeared_in_an_array.java) | _O(n)_ | _O(1)_ | Easy || Cyclic Sort
 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](./Arrays/maximum_average_subarray_i.java) | _O(n)_ | _O(1)_ | Easy || Sliding Window, Arrays
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | [Java](./Arrays/set_mismatch.java) | _O(n)_ | _O(1)_ | Easy || Cyclic Sort
+658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) | [Java](./Arrays/find_k_closest_elements.java) | _O(log n + k)_ | _O(1)_ | Medium || Binary Search
 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [Java](./Arrays/binary_search.java) | _O(log n)_ | _O(1)_ | Easy || Arrays, Binary Search
 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [Java](./Arrays/find_smallest_letter_greater_than_target.java) | _O(log n)_ | _O(1)_ | Easy || Arrays, Binary Search
 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Java](./Arrays/flipping_an_image.java) | _O(r * c)_ | _O(r * c)_ | Easy || Two Pointers, Matrix, Bit Manipulation
