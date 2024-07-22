@@ -150,6 +150,7 @@
 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Java](./Heaps_PQ/sort_characters_by_frequency.java) | _O(n log n)_ | _O(n)_ | Medium || Max-Heaps
 502 | [IPO](https://leetcode.com/problems/ipo/description/) | [Java](./Heaps_PQ/IPO.java) | _O(n log n)_ | _O(n)_ | Hard || Two-Heaps
 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Java](./Heaps_PQ/kth_largest_element_in_a_stream.java) | _O(n log n)_ | _O(k)_ | Easy || Min-Heap
+767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [Java](./Heaps_PQ/reorganize_string.java) | _O(n log n)_ | _O(n)_ | Medium || Max-Heap
 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [Java](./Heaps_PQ/k_closest_points_to_origin.java) | _O(n log k)_ | _O(k)_ | Medium || Max-Heap
 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | [Java](./Heaps_PQ/last_stone_weight.java) | _O(n log n)_ | _O(n)_ | Easy || Max-Heap
 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/) | [Java](./Heaps_PQ/least_number_of_unique_integers_after_k_removals.java) | _O(n + k log n)_ | _O(n)_ | Medium || Min-Heap
