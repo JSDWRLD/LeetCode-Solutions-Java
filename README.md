@@ -149,6 +149,7 @@
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Java](./Heaps_PQ/find_median_from_data_stream.java) | _O(log n)_ | _O(n)_ | Hard || Two-Heaps
 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Java](./Heaps_PQ/sort_characters_by_frequency.java) | _O(n log n)_ | _O(n)_ | Medium || Max-Heaps
 502 | [IPO](https://leetcode.com/problems/ipo/description/) | [Java](./Heaps_PQ/IPO.java) | _O(n log n)_ | _O(n)_ | Hard || Two-Heaps
+621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Java](./Heaps_PQ/task_scheduler.java) | _O(n log n)_ | _O(n)_ | Medium || Max-Heap
 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Java](./Heaps_PQ/kth_largest_element_in_a_stream.java) | _O(n log n)_ | _O(k)_ | Easy || Min-Heap
 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [Java](./Heaps_PQ/reorganize_string.java) | _O(n log n)_ | _O(n)_ | Medium || Max-Heap
 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [Java](./Heaps_PQ/k_closest_points_to_origin.java) | _O(n log k)_ | _O(k)_ | Medium || Max-Heap
