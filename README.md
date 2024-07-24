@@ -145,6 +145,7 @@
 ## Heaps and Priority Queue
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](./Heaps_PQ/merge_k_sorted_lists.java) | _O(n log k)_ | _O(k)_ | Hard || Min-Heap
 215 | [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Java](./Heaps_PQ/kth_largest_element_in_an_array.java) | _O(n log k)_ | _O(k)_ | Medium || Arrays, Min-Heap
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Java](./Heaps_PQ/find_median_from_data_stream.java) | _O(log n)_ | _O(n)_ | Hard || Two-Heaps
 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Java](./Heaps_PQ/sort_characters_by_frequency.java) | _O(n log n)_ | _O(n)_ | Medium || Max-Heaps
