@@ -1,3 +1,37 @@
+// Space Complexity: O(1) Solution
+class Solution {
+    public int[] productExceptSelf(int[] nums) {
+        // We shall do all the multiplication in result array
+        
+        int[] res = new int[nums.length];
+        int prev = 1; // Will keep track of the previous sum
+        for (int i = 0; i < nums.length; i++) {
+            // Update current index to previous sum, 
+            // then multiply previous sum with current to prepare for
+            // next iteration.
+            res[i] = prev;
+            prev *= nums[i];
+        }
+
+        // Reset prev to 0 for getting right sum of each number
+        prev = 1;
+        for (int i = nums.length - 1; i >= 0; i--) {
+            // Multiply current index by the sum on the right of itself
+            res[i] *= prev;
+
+            // Update right sum by multiplying with current, 
+            // for next iteration
+            prev *= nums[i];
+        }
+
+        // Time Complexity: O(n)
+        // Space Complexity: O(1)
+        return res;
+    }
+}
+
+
+// Space Complexity: O(n) Solution
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         // prefix array iterate through and multiply as we go along
