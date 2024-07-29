@@ -92,6 +92,7 @@
 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [Java](./Strings/permutation_in_string.java) | _O(n)_ | _O(1)_ | Medium || Sliding Window
 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Java](./Strings/letter_case_permutation.java) | _O(2^n)_ | _O(2^n)_ | Medium || Subsets
 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Java](./Strings/custom_sort_string.java) | _O(n + m)_ | _O(n)_ | Medium || HashMap
+929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) | [Java](./Strings/unique_email_addresses.java) | _O(n * m)_ | _O(m)_ | Easy || HashSet
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | [Java](./Strings/find_common_characters.java) | _O(n * m)_ | _O(26)_ | Easy || Character Frequency
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) | [Java](./Strings/split_a_string_in_balanced_strings.java) | _O(n)_ | _O(1)_ | Easy || Strings
 
