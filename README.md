@@ -13,7 +13,7 @@
 * [Tree](https://github.com/JSDWRLD/LeetCode-Solutions-Java#tree)
 * [Heaps/Priority Queue](https://github.com/JSDWRLD/LeetCode-Solutions-Java#heaps-and-priority-queue)
 * [Math](https://github.com/JSDWRLD/LeetCode-Solutions-Java#math)
-* [Dynamic Programming](https://github.com/JSDWRLD/LeetCode-Solutions-Java#dynamic+programming)
+* [Dynamic Programming](https://github.com/JSDWRLD/LeetCode-Solutions-Java#dynamic-programming)
 
 
 ## Array
