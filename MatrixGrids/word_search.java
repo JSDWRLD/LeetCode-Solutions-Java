@@ -13,7 +13,7 @@ class Solution {
         return false;
     }
     
-    // DFS Backtracking approach, Time Complexity of DFS is word length ^ 4 dfs calls
+    // DFS Backtracking approach, Time Complexity of DFS is 4^wordlength dfs calls
     private boolean dfs(char[][] board, String word, int r, int c, int curr) {
         if (curr == word.length()) return true;
         if (r < 0 || c < 0 || r >= board.length|| c >= board[0].length || board[r][c] != word.charAt(curr)) return false;
