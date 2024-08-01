@@ -65,6 +65,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Java](./MatrixGrids/valid_sudoku.java) | _O(1)_ | _O(1)_ | Medium || Arrays, Matrix, HashMap
 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Java](./MatrixGrids/search_a_2d_matrix.java) | _O(log m + n)_ | _O(1)_ | Medium || Arrays, Matrix, Binary Search
+79 | [Word Search](https://leetcode.com/problems/word-search/description/) | [Java](./MatrixGrids/word_search.java) | _O(r * c * w^4)_ | _O(1)_ | Medium || Matrix, Backtracking, Graph Depth-First Search
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Java](./MatrixGrids/number_of_islands.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Java](./MatrixGrids/max_area_of_island.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search
 
