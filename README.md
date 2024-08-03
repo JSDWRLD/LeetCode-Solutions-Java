@@ -109,6 +109,7 @@
 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Java](./LinkedLists/linked_list_cycle_II.java) | _O(n)_ | _O(1)_ | Medium || Slow/Fast Pointer, Two Pointers
 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [Java](./LinkedLists/reorder_list.java) | _O(n)_ | _O(1)_ | Medium || Two Pointers, Fast and Slow Pointer
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./LinkedLists/reverse_linked_list.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
+445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Java](./LinkedLists/add_two_numbers_ii.java) | _O(n)_ | _O(n)_ | Medium || In Place Reversal, Singly-Linked List
 
 ## Stack
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
