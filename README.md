@@ -11,7 +11,7 @@
 * [Linked List](https://github.com/JSDWRLD/LeetCode-Solutions-Java#linked-list)
 * [Stack](https://github.com/JSDWRLD/LeetCode-Solutions-Java#stack)
 * [Tree](https://github.com/JSDWRLD/LeetCode-Solutions-Java#tree)
-* [Heaps/Priority Queue](https://github.com/JSDWRLD/LeetCode-Solutions-Java#heaps-and-priority-queue)
+* [Heaps and Priority Queue](https://github.com/JSDWRLD/LeetCode-Solutions-Java#heaps-and-priority-queue)
 * [Math and Bit Manipulation](https://github.com/JSDWRLD/LeetCode-Solutions-Java#math-and-bit-manipulation)
 * [Dynamic Programming](https://github.com/JSDWRLD/LeetCode-Solutions-Java#dynamic-programming)
 
