@@ -12,7 +12,7 @@
 * [Stack](https://github.com/JSDWRLD/LeetCode-Solutions-Java#stack)
 * [Tree](https://github.com/JSDWRLD/LeetCode-Solutions-Java#tree)
 * [Heaps/Priority Queue](https://github.com/JSDWRLD/LeetCode-Solutions-Java#heaps-and-priority-queue)
-* [Math](https://github.com/JSDWRLD/LeetCode-Solutions-Java#math)
+* [Math/Bit Manipulation](https://github.com/JSDWRLD/LeetCode-Solutions-Java#math/bit-manipulation)
 * [Dynamic Programming](https://github.com/JSDWRLD/LeetCode-Solutions-Java#dynamic-programming)
 
 
@@ -166,7 +166,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Java](./Heaps_PQ/find_median_from_data_stream.java) | _O(log n)_ | _O(n)_ | Hard || Two-Heaps
 
-## Math
+## Math/Bit Manipulation
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 7 | [Reverse Integer](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Java](./Math/reverse_integer.java) | _O(n)_ | _O(1)_ | Medium || Math
