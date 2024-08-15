@@ -91,6 +91,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Java](./Strings/longest_common_prefix.java) | _O(n * log(n))_ | _O(1)_ | Easy || Strings
+17 | [Number of Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Java](./Strings/number_of_combinations_of_a_phone_number.java) | _O(n * 4^n)_ | _O(n)_ | Medium || Backtracking
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Java](./Strings/generate_parentheses.java) | _O(4^n / sqrt(n))_ | _O(n)_ | Medium || Backtracking, Dynamic Programming
 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Java](./Strings/find_index_first_occurrence_string.java) | _O(n)_ | _O(1)_ | Easy || Strings
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](./Strings/length_of_last_word.java) | _O(n)_ | _O(1)_ | Easy || Strings
