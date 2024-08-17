@@ -60,6 +60,7 @@
 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | [Java](./Arrays/sort_an_array.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Sorting
 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [Java](./Arrays/subarray_sums_divisible_by_k.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Prefix Sum, HashMap
 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) | [Java](./Arrays/interval_list_intersections.java) | _O(n)_ | _O(n)_ | Medium || Intervals
+1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) | [Java](./Arrays/count_number_of_nice_subarrays.java) | _O(n)_ | _O(k)_ | Medium || Sliding Window
 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/) | [Java](./Arrays/alternating_groups_ii.java) | _O(n)_ | _O(n)_ | Medium || Sliding Window
 
 ## Matrix and Grid
