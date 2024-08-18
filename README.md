@@ -61,6 +61,7 @@
 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [Java](./Arrays/subarray_sums_divisible_by_k.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Prefix Sum, HashMap
 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) | [Java](./Arrays/interval_list_intersections.java) | _O(n)_ | _O(n)_ | Medium || Intervals
 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) | [Java](./Arrays/count_number_of_nice_subarrays.java) | _O(n)_ | _O(k)_ | Medium || Sliding Window
+1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/) | [Java](./Arrays/group_the_people_given_the_group_size_they_belong_to.java) | _O(n log n)_ | _O(n)_ | Medium || Min-Heap, Merge Intervals
 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/) | [Java](./Arrays/alternating_groups_ii.java) | _O(n)_ | _O(n)_ | Medium || Sliding Window
 
 ## Matrix and Grid
