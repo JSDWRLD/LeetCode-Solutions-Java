@@ -184,6 +184,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 7 | [Reverse Integer](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Java](./Math/reverse_integer.java) | _O(n)_ | _O(1)_ | Medium || Math
+69 | [Sqrt](https://leetcode.com/problems/sqrtx/description/) | [Java](./Math/sqrt.java) | _O(log n)_ | _O(1)_ | Easy || Binary Search
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [Java](./Math/sum_of_two_integers.java) | _O(n)_ | _O(1)_ | Medium || Math, Bit Manipulation
 
 ## Dynamic Programming
