@@ -155,6 +155,7 @@
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Java](./Trees/diameter_of_binary_tree.java) | _O(n)_ | _O(h)_ | Easy || Binary Tree. Depth-First Search
 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Java](./Trees/subtree_of_another_tree.java) | _O(n * m)_ | _O(h)_ | Easy || Tree, Depth-First Search
 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Java](./Trees/average_of_levels_in_binary_tree.java) | _O(n)_ | _O(n)_ | Easy || Tree, Breadth-First Search
+938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) | [Java](./Trees/range_sum_of_bst.java) | _O(n)_ | _O(n)_ | Easy || Tree, Breadth-First Search
 1448 | [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) | [Java](./Trees/count_good_nodes_in_binary_tree.java) | _O(n)_ | _O(h)_ | Medium || Tree, Preorder Depth-First Search
 
 ## Heaps and Priority Queue
