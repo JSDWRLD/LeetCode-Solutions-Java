@@ -98,6 +98,7 @@
 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Java](./Strings/find_index_first_occurrence_string.java) | _O(n)_ | _O(1)_ | Easy || Strings
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](./Strings/length_of_last_word.java) | _O(n)_ | _O(1)_ | Easy || Strings
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java](./Strings/valid_palindrome.java) | _O(n)_ | _O(1)_ | Easy || Strings, Two Pointer
+131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Java](./Strings/palindrome_partitioning.java) | _O(n * 2^n)_ | _O(n)_ | Medium || Strings, Backtracking
 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Java](./Strings/word_pattern.java) | _O(n)_ | _O(n)_ | Easy || Strings, HashMap
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Java](./Strings/first_unique_character_in_a_string.java) | _O(n)_ | _O(1)_ | Easy || Strings, HashMap
 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Java](./Strings/longest_repeating_character_replacement.java) | _O(n)_ | _O(1)_ | Medium || Hash Table, Sliding Window
