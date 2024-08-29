@@ -2,6 +2,7 @@
 
 * [My Leetcode Profile](https://leetcode.com/JSDWRLD/)
 * This is a repository filed with my Leetcode solutions along with Asymptotic Analysis. (Time and Space Complexity)
+* For TOS reasons, this repository will not feature any premium questions.
 
 ## Data Structures
 * [Array](https://github.com/JSDWRLD/LeetCode-Solutions-Java#array)
