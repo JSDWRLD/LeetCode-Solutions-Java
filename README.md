@@ -200,4 +200,5 @@
 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](./DynamicProgramming/house_robber.java) | _O(n)_ | _O(n)_ | Medium || Memoization, Recursion
 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](./DynamicProgramming/partition_equal_subset_sum.java) | _O(n * s)_ | _O(n * s)_ | Medium || Memoization, Bottom-Up
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Java](./DynamicProgramming/fibonacci_number.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
+2998 | [Minimum Number of Operations to Make X and Y Equal](https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/description/) | [Java](./DynamicProgramming/minimum_number_of_operations_to_make_x_and_y_equal.java) | _O(n)_ | _O(n)_ | Medium || Memoization, BFS, Graphs
 
