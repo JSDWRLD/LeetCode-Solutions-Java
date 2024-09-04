@@ -194,6 +194,7 @@
 69 | [Sqrt](https://leetcode.com/problems/sqrtx/description/) | [Java](./Math/sqrt.java) | _O(log n)_ | _O(1)_ | Easy || Binary Search
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [Java](./Math/sum_of_two_integers.java) | _O(n)_ | _O(1)_ | Medium || Math, Bit Manipulation
 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./Math/count_binary_substrings.java) | _O(n)_ | _O(1)_ | Medium || Math
+2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/description/) | [Java](./Math/add_two_integers.java) | _O(1)_ | _O(1)_ | Easy || Math, Bit Manipulation
 3007 | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/) | [Java](./Math/maximum_number_that_sum_of_the_prices.java.java) | _O(log k)_ | _O(log k)_ | Medium || Math, Bit Manipulation, Binary Search
 
 ## Dynamic Programming
