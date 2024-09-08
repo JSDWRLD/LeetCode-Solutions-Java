@@ -20,6 +20,7 @@
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Java](./Arrays/median_of_two_sorted_arrays.java) | _O(log(m + n))_ | _O(1)_ | Hard || Two Pointer, Binary Search, Sorting
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Java](./Arrays/container_with_most_water.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Two Pointer, Greedy
 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | [Java](./Arrays/3sum.java) | _O(n^2)_ | _O(1)_ | Medium || Arrays, Two Pointer, Sorting
 26 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Java](./Arrays/remove_element.java) | _O(n)_ | _O(1)_ | Easy || Arrays
