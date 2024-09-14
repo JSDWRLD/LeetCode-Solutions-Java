@@ -40,6 +40,7 @@
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](./Arrays/best_time_to_buy_and_sell_stock.java) | _O(n)_ | _O(1)_ | Easy || Arrays, Sliding Window
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Java](./Arrays/longest_consecutive_sequence.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Set
 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [Java](./Arrays/single_number.java) | _O(n)_ | _O(1)_ | Easy || Bit Manipulation
+152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Java](./Arrays/maximum_product_subarray.java) | _O(n)_ | _O(1)_ | Medium || Max/Min 
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Java](./Arrays/find_minimum_in_rotated_sorted_array.java) | _O(log n)_ | _O(1)_ | Medium || Arrays, Binary Search
 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Java](./Arrays/two_sum_ii_input_array_is_sorted.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Two Pointer, Binary Search
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Java](./Arrays/product_of_array_except_self.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Prefix Sum
