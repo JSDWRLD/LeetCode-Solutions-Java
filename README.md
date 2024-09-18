@@ -29,6 +29,7 @@
 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Java](./Arrays/find_first_and_last_position_of_element_in_sorted_array.java) | _O(log n)_ | _O(1)_ | Medium || Arrays, Binary Search
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Java](./Arrays/search_insert_position.java) | _O(log n)_ | _O(1)_ | Easy || Arrays, Binary Search
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Java](./Arrays/trapping_rain_water.java) | _O(n)_ | _O(1)_ | Hard || Two Pointers
+45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [Java](./Arrays/jump_game_ii.java) | _O(n)_ | _O(1)_ | Medium || Two Pointers
 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Java](./Arrays/permutations.java) | _O(n * p!)_ | _O(n * p!)_ | Medium || Breadth-First
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](./Arrays/maximum_subarray.java) | _O(n )_ | _O(1)_ | Medium || Math
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](./Arrays/merge_intervals.java) | _O(n log n)_ | _O(n)_ | Medium || Intervals, Sorting, Arrays
