@@ -145,6 +145,7 @@
 ## Tree
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Java](./Trees/validate_binary_search_tree.java) | _O(n)_ | _O(n)_ | Medium || Depth-First Search
 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Java](./Trees/same_tree.java) | _O(n)_ | _O(h)_ | Easy || Tree
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Java](./Trees/binary_tree_level_order_traversal.java) | _O(n)_ | _O(n)_ | Medium || Tree, Breadth-First Search
 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java](./Trees/binary_tree_zigzag_level_order_traversal.java) | _O(n)_ | _O(n)_ | Medium || Tree, Breadth-First Search
