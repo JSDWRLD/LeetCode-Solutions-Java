@@ -47,6 +47,7 @@
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Java](./Arrays/product_of_array_except_self.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Prefix Sum
 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [Java](./Arrays/single_number_iii.java) | _O(n)_ | _O(1)_ | Medium || Bit Manipulation
 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](./Arrays/missing_number.java) | _O(n)_ | _O(1)_ | Easy || Cyclic Sort
+283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Java](./Arrays/move_zeros.java) | _O(n)_ | _O(1)_ | Easy || Two Pointers
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Java](./Arrays/find_the_duplicate_number.java) | _O(n)_ | _O(1)_ | Medium || Slow & Faster Pointer, Two Pointers, Cyclic
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Java](./Arrays/top_k_frequent_elements.java) | _O(n + k)_ | _O(n + k)_ | Medium || Bucket Sort, Arrays, HashMap/Table
 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [Java](./Arrays/non-overlapping_intervals.java) | _O(n log n)_ | _O(1)_ | Medium || Merge Intervals
