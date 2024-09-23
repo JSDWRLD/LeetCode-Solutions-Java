@@ -201,6 +201,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 7 | [Reverse Integer](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Java](./Math/reverse_integer.java) | _O(n)_ | _O(1)_ | Medium || Math
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Java](./Math/palindrome_number.java) | _O(log n)_ | _O(1)_ | Medium || Math
+29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [Java](./Math/divide_two_integers.java) | _O(log D/d)_ | _O(1)_ | Medium || Math
 69 | [Sqrt](https://leetcode.com/problems/sqrtx/description/) | [Java](./Math/sqrt.java) | _O(log n)_ | _O(1)_ | Easy || Binary Search
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [Java](./Math/sum_of_two_integers.java) | _O(n)_ | _O(1)_ | Medium || Math, Bit Manipulation
 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./Math/count_binary_substrings.java) | _O(n)_ | _O(1)_ | Medium || Math
