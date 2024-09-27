@@ -135,6 +135,7 @@
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Java](./LinkedLists/lru_cache.java) | _O(1)_ | _O(n)_ | Medium || Hash Table, Doubly LinkedList
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./LinkedLists/reverse_linked_list.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Java](./LinkedLists/add_two_numbers_ii.java) | _O(n)_ | _O(n)_ | Medium || In Place Reversal, Singly-Linked List
+876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](./LinkedLists/middle_of_the_linked_list.java) | _O(n)_ | _O(1)_ | Easy || 
 
 ## Stack
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
