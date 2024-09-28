@@ -205,6 +205,7 @@
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Java](./Math/palindrome_number.java) | _O(log n)_ | _O(1)_ | Medium || Math
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [Java](./Math/divide_two_integers.java) | _O(log D/d)_ | _O(1)_ | Medium || Math
 69 | [Sqrt](https://leetcode.com/problems/sqrtx/description/) | [Java](./Math/sqrt.java) | _O(log n)_ | _O(1)_ | Easy || Binary Search
+278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Java](./Math/first_bad_version.java) | _O(log n)_ | _O(1)_ | Easy || Binary Search
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [Java](./Math/sum_of_two_integers.java) | _O(n)_ | _O(1)_ | Medium || Math, Bit Manipulation
 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./Math/count_binary_substrings.java) | _O(n)_ | _O(1)_ | Medium || Math
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [Java](./Math/find_n_unique_integers_sum_up_to_zero.java) | _O(n)_ | _O(1)_ | Medium || Math
