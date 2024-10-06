@@ -1,41 +1,26 @@
 class Solution {
     public void sortColors(int[] nums) {
-        
-        // Time Complexity: O(n log n)
-        // Space Complexity: O(1)
-        qs(nums, 0, nums.length-1);
-    }
-
-    private void qs(int[] nums, int begin, int end) {
-        if (begin < end) {
-            int partIndex = partition(nums, begin, end);
-
-            // Calls Quick Sort on each partition until entire array sorted
-            qs(nums, begin, partIndex-1);
-            qs(nums, partIndex+1, end);
-        }
-    }
-
-    private int partition(int[] nums, int begin, int end) {
-        int i = begin - 1;
-
-        for (int j = begin; j < end; j++) {
-            if (nums[j] <= nums[end]) {
-                // Swap as long as curr less than pivot
+        int zeroP = 0, twoP = nums.length-1, i = 0;
+        while (i <= twoP) {
+            if (nums[i] == 0) {
+                swap(nums, zeroP, i);
+                zeroP++;
                 i++;
-
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
+            } else if (nums[i] == 2) {
+                swap(nums, twoP, i);
+                twoP--;
+            } else {
+                i++;
             }
         }
 
-        // Swap pivot to where I, everything less than pivot on left
-        int temp = nums[i+1];
-        nums[i+1] = nums[end];
-        nums[end] = temp;
+        // Time Complexity: O(n)
+        // Space Complexity: O(1)
+    }
 
-        // Return area above pivot for Quick Sort
-        return i+1;
+    private void swap(int[] nums, int x, int y) {
+        int temp = nums[x];
+        nums[x] = nums[y];
+        nums[y] = temp;
     }
 }
