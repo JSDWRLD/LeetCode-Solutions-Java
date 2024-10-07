@@ -27,17 +27,8 @@ class Solution {
             j++;
         }
 
-        // convert to a 2d array, from our temp arraylist
-        int[][] result = new int[temp.size()][2];
-        int index = 0;
-        for (int[] interval : temp) {
-            result[index][0] = interval[0];
-            result[index][1] = interval[1];
-            index++;
-        }
-
         // Time Complexity: O(n)
         // Space Complexity: O(n)
-        return result;
+        return temp.toArray(new int[temp.size()][2]);
     }
 }
