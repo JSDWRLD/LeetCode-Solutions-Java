@@ -221,6 +221,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Java](./DynamicProgramming/combination_sum.java) | _O(2^n)_ | _O(n)_ | Medium || Backtracking, Recursion
+139 | [Word Break](https://leetcode.com/problems/word-break/) | [Java](./DynamicProgramming/word_break.java) | _O(n * m)_ | _O(n)_ | Medium || DP, Iterative
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./DynamicProgramming/climbing_stairs.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](./DynamicProgramming/house_robber.java) | _O(n)_ | _O(n)_ | Medium || Memoization, Recursion
 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](./DynamicProgramming/partition_equal_subset_sum.java) | _O(n * s)_ | _O(n * s)_ | Medium || Memoization, Bottom-Up
