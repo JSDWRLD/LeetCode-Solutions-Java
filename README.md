@@ -89,6 +89,7 @@
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [Java](./MatrixGrids/flood_fill.java) | _O(r * c)_ | _O(r * c)_ | Easy || Depth-First Search
 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [Java](./MatrixGrids/toeplitz_matrix.java) | _O(r * c)_ | _O(d)_ | Medium || HashMap
 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | [Java](./MatrixGrids/magic_squares_in_grid.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix
+994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | [Java](./MatrixGrids/rotting_oranges.java) | _O(r * c)_ | _O(r * c)_ | Medium || Breadth-first Search
 
 
 ## HashMap
