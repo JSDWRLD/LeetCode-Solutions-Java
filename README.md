@@ -84,6 +84,7 @@
 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | [Java](./MatrixGrids/word_search.java) | _O(r * c * 4^w)_ | _O(1)_ | Medium || Matrix, Backtracking, Graph Depth-First Search
 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | [Java](./MatrixGrids/surrounded_regions.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search, Reverse Logic
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Java](./MatrixGrids/number_of_islands.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search
+207 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [Java](./MatrixGrids/course_schedule.java) | _O(v * p)_ | _O(v * p)_ | Medium || Graph Depth-First Search
 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Java](./MatrixGrids/walls_and_gates.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Breadth-First Search
 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [Java](./MatrixGrids/pacific_atlantic_water_flow.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search, Reverse Logic
 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [Java](./MatrixGrids/diagonal_traverse.java) | _O(r * c)_ | _O(1)_ | Medium || Outside Pointers
