@@ -5,7 +5,7 @@
 
 ## Data Structures
 * [Array](https://github.com/JSDWRLD/LeetCode-Solutions-Java#array)
-* [Matrix and Grid](https://github.com/JSDWRLD/LeetCode-Solutions-Java#matrix-and-grid)
+* [Matrix and Graph](https://github.com/JSDWRLD/LeetCode-Solutions-Java#matrix-and-graph)
 * [HashMap](https://github.com/JSDWRLD/LeetCode-Solutions-Java#hashmap)
 * [String](https://github.com/JSDWRLD/LeetCode-Solutions-Java#string)
 * [Linked List](https://github.com/JSDWRLD/LeetCode-Solutions-Java#linked-list)
@@ -73,7 +73,7 @@
 2892 | [Minimizing Array After Replacing Pairs With Their Product](https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product/description/) | [Java](./Arrays/minimizing_array_after_replacing_pairs_with_their_product.java) | _O(n)_ | _O(1)_ | Medium || Greedy
 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/) | [Java](./Arrays/alternating_groups_ii.java) | _O(n)_ | _O(n)_ | Medium || Sliding Window
 
-## Matrix and Grid
+## Matrix and Graph
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Java](./MatrixGrids/valid_sudoku.java) | _O(1)_ | _O(1)_ | Medium || Arrays, Matrix, HashMap
@@ -83,9 +83,11 @@
 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Java](./MatrixGrids/search_a_2d_matrix.java) | _O(log m + n)_ | _O(1)_ | Medium || Arrays, Matrix, Binary Search
 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | [Java](./MatrixGrids/word_search.java) | _O(r * c * 4^w)_ | _O(1)_ | Medium || Matrix, Backtracking, Graph Depth-First Search
 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | [Java](./MatrixGrids/surrounded_regions.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search, Reverse Logic
+133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [Java](./MatrixGrids/clone_graph.java) | _O(v * e)_ | _O(v * e)_ | Medium || Depth-First Search
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Java](./MatrixGrids/number_of_islands.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search
 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [Java](./MatrixGrids/course_schedule.java) | _O(v * p)_ | _O(v * p)_ | Medium || Graph Depth-First Search
 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Java](./MatrixGrids/walls_and_gates.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Breadth-First Search
+295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Java](./MatrixGrids/find_median_from_data_stream.java) | _O(log n)_ | _O(n)_ | Hard || Two-Heaps
 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [Java](./MatrixGrids/pacific_atlantic_water_flow.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search, Reverse Logic
 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [Java](./MatrixGrids/diagonal_traverse.java) | _O(r * c)_ | _O(1)_ | Medium || Outside Pointers
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Java](./MatrixGrids/max_area_of_island.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search
@@ -200,12 +202,6 @@
 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [Java](./Heaps_PQ/k_closest_points_to_origin.java) | _O(n log k)_ | _O(k)_ | Medium || Max-Heap
 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | [Java](./Heaps_PQ/last_stone_weight.java) | _O(n log n)_ | _O(n)_ | Easy || Max-Heap
 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/) | [Java](./Heaps_PQ/least_number_of_unique_integers_after_k_removals.java) | _O(n + k log n)_ | _O(n)_ | Medium || Min-Heap
-
-## Graphs
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [Java](./Heaps_PQ/clone_graph.java) | _O(v * e)_ | _O(v * e)_ | Medium || Depth-First Search
-295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Java](./Heaps_PQ/find_median_from_data_stream.java) | _O(log n)_ | _O(n)_ | Hard || Two-Heaps
 
 ## Math and Bit Manipulation
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
