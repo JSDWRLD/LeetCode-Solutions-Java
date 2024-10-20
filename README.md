@@ -87,7 +87,6 @@
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Java](./MatrixGrids/number_of_islands.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search
 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [Java](./MatrixGrids/course_schedule.java) | _O(v * p)_ | _O(v * p)_ | Medium || Graph Depth-First Search
 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Java](./MatrixGrids/walls_and_gates.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Breadth-First Search
-295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Java](./MatrixGrids/find_median_from_data_stream.java) | _O(log n)_ | _O(n)_ | Hard || Two-Heaps
 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [Java](./MatrixGrids/pacific_atlantic_water_flow.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search, Reverse Logic
 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [Java](./MatrixGrids/diagonal_traverse.java) | _O(r * c)_ | _O(1)_ | Medium || Outside Pointers
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Java](./MatrixGrids/max_area_of_island.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search
