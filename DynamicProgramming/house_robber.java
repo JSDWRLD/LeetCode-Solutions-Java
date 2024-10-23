@@ -1,24 +1,41 @@
-class Solution { 
+class Solution {
+
+    // O(1) Space
     public int rob(int[] nums) {
-        // creating memo
-        HashMap<Integer, Integer> memo = new HashMap<>();
-        return rob(nums, nums.length - 1, memo);
-    }
+        if (nums.length == 1) return nums[0];
+        if (nums.length == 2) return Math.max(nums[0], nums[1]);
 
-    public int rob(int[] nums, int i, HashMap<Integer, Integer> memo){
-        // end index we make a decision
-        if(i < 0) return 0;
-        // if our memo already has seen subproblem index return value
-        if(memo.containsKey(i)) return memo.get(i);
+        int prev = nums[0], adj = Math.max(nums[0], nums[1]), curr;
 
-        // we get the max of our two decisions
-        // a. we get robbery of current house and loot of house before prev
-        // b. loot from prev house and anything before that
-        int result = Math.max(rob(nums, i - 2, memo) + nums[i], rob(nums, i -1, memo));
-        memo.put(i, result);
-
+        for (int i = 2; i < nums.length; i++) {
+            curr = Math.max(adj, nums[i] + prev);
+            prev = adj;
+            adj = curr;
+        }
+        
         // Time Complexity: O(n)
-        // Space Complexity: O(n)
-        return result;
+        // Space Complexity: O(1)
+        return Math.max(prev, adj);
     }
 }
+
+// O(n) Space
+//     public int rob(int[] nums) {
+//         if (nums.length == 1) return nums[0];
+//         if (nums.length == 2) return Math.max(nums[0], nums[1]);
+
+//         // Initialize our dp array to remove sub problems
+//         // we start off with first 2 values
+//         int[] dp = new int[nums.length];
+//         dp[0] = nums[0]; // curr + behind adj
+//         dp[1] = Math.max(nums[0], nums[1]); // Adj to curr
+
+//         for (int i = 2; i < nums.length; i++) {
+//             dp[i] = Math.max(dp[i-1], nums[i] + dp[i-2]);
+//         }
+
+//         // Time Complexity: O(n)
+//         // Space Complexity: O(n)
+//         return dp[nums.length-1];
+//     }
+
