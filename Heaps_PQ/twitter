@@ -1,0 +1,72 @@
+class Twitter {
+
+    // Keep track of each user's follow list and tweets
+    private HashMap<Integer, HashSet<Integer>> followMap;
+    private HashMap<Integer, List<int[]>> tweetMap;
+    private int timestamp;
+    
+    // Space O(F + T + R)
+    public Twitter() {
+        followMap = new HashMap<>();
+        tweetMap = new HashMap<>();
+        timestamp = 0;
+    }
+    
+    // O(1)
+    public void postTweet(int userId, int tweetId) {
+        timestamp += 1;
+        List<int[]> tweetList = tweetMap.getOrDefault(userId, new ArrayList<int[]>());
+        tweetList.add(new int[] {timestamp, tweetId});
+        tweetMap.put(userId, tweetList);
+    }
+    
+    public List<Integer> getNewsFeed(int userId) {
+        HashSet<Integer> followSet = followMap.getOrDefault(userId, new HashSet<>());
+        followSet.add(userId); // Include self
+        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a,b) -> b[0] - a[0]);
+        
+        // O(n)
+        for (int user : followSet) {
+            List<int[]> tweetList = tweetMap.getOrDefault(user, new ArrayList<int[]>());
+
+            // O (m log m)
+            for (int[] tweet : tweetList) {
+                maxHeap.add(tweet);
+            }
+        }
+
+        List<Integer> result = new ArrayList<>();
+        while(!maxHeap.isEmpty() && result.size() < 10) {
+            int[] curr = maxHeap.poll();
+            result.add(curr[1]);
+        }
+
+        return result;
+    }
+    
+    // O(1)
+    public void follow(int followerId, int followeeId) {
+        HashSet<Integer> following = followMap.getOrDefault(followerId, new HashSet<>());
+        following.add(followeeId);
+        followMap.put(followerId, following); // Update
+    }
+    
+    // O(1)
+    public void unfollow(int followerId, int followeeId) {
+        
+        if (followMap.containsKey(followerId) && followMap.get(followerId).contains(followeeId)) {
+            followMap.get(followerId).remove(followeeId);
+        } else {
+            followMap.put(followerId, new HashSet<>());
+        }
+    }
+}
+
+/**
+ * Your Twitter object will be instantiated and called as such:
+ * Twitter obj = new Twitter();
+ * obj.postTweet(userId,tweetId);
+ * List<Integer> param_2 = obj.getNewsFeed(userId);
+ * obj.follow(followerId,followeeId);
+ * obj.unfollow(followerId,followeeId);
+ */
