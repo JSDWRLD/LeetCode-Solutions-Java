@@ -158,6 +158,7 @@
 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./Stacks/min_stack.java) | _O(1)_ | _O(n)_ | Medium | Design | Stacks
 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Java](./Stacks/implement_queue_using_stacks.java) | _O(n)_ | _O(n)_ | Easy | Design | Stacks
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Java](./Stacks/daily_temperatures.java) | _O(n)_ | _O(n)_ | Medium || Array, Monotonic Stack
+1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) | [Java](./Stacks/minimum_remove_to_make_valid_parentheses.java) | _O(n)_ | _O(n)_ | Medium || Stack, Set
 
 ## Tree
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
