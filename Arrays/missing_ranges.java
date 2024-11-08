@@ -14,6 +14,8 @@ class Solution {
             res.add(List.of(prev, upper));
         }
 
+        // Time Complexity: O(n)
+        // Space Complexity: O(1)
         return res;
     }
 }
