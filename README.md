@@ -98,6 +98,7 @@
 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [Java](./MatrixGrids/toeplitz_matrix.java) | _O(r * c)_ | _O(d)_ | Medium || HashMap
 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | [Java](./MatrixGrids/magic_squares_in_grid.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix
 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | [Java](./MatrixGrids/rotting_oranges.java) | _O(r * c)_ | _O(r * c)_ | Medium || Breadth-first Search
+1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) | [Java](./MatrixGrids/shortest_path_in_binary_matrix.java) | _O(r * c)_ | _O(r * c)_ | Medium || Breadth-first Search
 
 
 ## HashMap
