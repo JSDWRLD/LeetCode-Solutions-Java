@@ -201,6 +201,7 @@
 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](./Heaps_PQ/merge_k_sorted_lists.java) | _O(n log k)_ | _O(k)_ | Hard || Min-Heap
 215 | [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Java](./Heaps_PQ/kth_largest_element_in_an_array.java) | _O(n log k)_ | _O(k)_ | Medium || Arrays, Min-Heap
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Java](./Heaps_PQ/find_median_from_data_stream.java) | _O(log n)_ | _O(n)_ | Hard || Two-Heaps
+346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Java](./Heaps_PQ/moving_average_from_data_stream.java) | _O(1)_ | _O(n)_ | Easy || OO-Design, Queue
 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/description/) | [Java](./Heaps_PQ/design_twitter.java) | _O(n + m log m)_ | _O(n)_ | Medium || OO-Design, Max-Heap
 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) | [Java](./Heaps_PQ/find_k_pairs_with_smallest_sums.java) | _O(k log k)_ | _O(k)_ | Medium || Min-Heap
 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Java](./Heaps_PQ/sort_characters_by_frequency.java) | _O(n log n)_ | _O(n)_ | Medium || Max-Heaps
