@@ -72,6 +72,7 @@
 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) | [Java](./Arrays/interval_list_intersections.java) | _O(n)_ | _O(n)_ | Medium || Intervals
 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) | [Java](./Arrays/count_number_of_nice_subarrays.java) | _O(n)_ | _O(k)_ | Medium || Sliding Window
 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/) | [Java](./Arrays/group_the_people_given_the_group_size_they_belong_to.java) | _O(n log n)_ | _O(n)_ | Medium || Min-Heap, Merge Intervals
+1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) | [Java](./Arrays/kth_missing_positive_number.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 2892 | [Minimizing Array After Replacing Pairs With Their Product](https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product/description/) | [Java](./Arrays/minimizing_array_after_replacing_pairs_with_their_product.java) | _O(n)_ | _O(1)_ | Medium || Greedy
 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/) | [Java](./Arrays/alternating_groups_ii.java) | _O(n)_ | _O(n)_ | Medium || Sliding Window
 
