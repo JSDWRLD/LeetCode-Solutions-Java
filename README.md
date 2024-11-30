@@ -92,6 +92,7 @@
 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | [Java](./MatrixGrids/course_schedule_ii.java) | _O(v * e)_ | _O(v * e)_ | Medium || Graph Breadth-First Search, Topological Sort
 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/) | [Java](./MatrixGrids/graph_valid_tree.java) | _O(v * e)_ | _O(v * e)_ | Medium || Graph Depth-First Search,
 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Java](./MatrixGrids/walls_and_gates.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Breadth-First Search
+304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/) | [Java](./MatrixGrids/range_sum_query_2d_im.java) | _O(1)_ | _O(r * c)_ | Medium || Matrix, Prefix Sum
 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [Java](./MatrixGrids/pacific_atlantic_water_flow.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search, Reverse Logic
 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [Java](./MatrixGrids/diagonal_traverse.java) | _O(r * c)_ | _O(1)_ | Medium || Outside Pointers
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Java](./MatrixGrids/max_area_of_island.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search
