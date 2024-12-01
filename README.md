@@ -112,6 +112,7 @@
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Java](./Maps/valid_anagram.java) | _O(log n)_ | _O(n + m)_ | Easy || HashMap
 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Java](./Maps/longest_palindrome.java) | _O(n)_ | _O(1)_ | Easy || HashSet
 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/) | [Java](./Maps/prison_cells_after_n_days.java) | _O(n)_ | _O(1)_ | Medium || HashSet
+1346 | [Check If N and Its Double Exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | [Java](./Maps/check_if_n_and_its_double_exists.java) | _O(n)_ | _O(n)_ | Easy || HashSet
 
 ## String
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
