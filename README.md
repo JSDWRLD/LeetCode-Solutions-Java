@@ -137,6 +137,7 @@
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) | [Java](./Strings/unique_email_addresses.java) | _O(n * m)_ | _O(m)_ | Easy || HashSet
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | [Java](./Strings/find_common_characters.java) | _O(n * m)_ | _O(26)_ | Easy || Character Frequency
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) | [Java](./Strings/split_a_string_in_balanced_strings.java) | _O(n)_ | _O(1)_ | Easy || Strings
+1455 | [Check If a Word Occurs as a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/) | [Java](./Strings/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.java) | _O(n)_ | _O(n)_ | Easy || Strings
 
 ## Linked List
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
