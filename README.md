@@ -139,6 +139,7 @@
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) | [Java](./Strings/split_a_string_in_balanced_strings.java) | _O(n)_ | _O(1)_ | Easy || Strings
 1455 | [Check If a Word Occurs as a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/) | [Java](./Strings/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.java) | _O(n)_ | _O(n)_ | Easy || Strings
 2109 | [Adding Spaces to A String](https://leetcode.com/problems/adding-spaces-to-a-string/description/) | [Java](./Strings/adding_spaces_to_a_string.java) | _O(n + m)_ | _O(n + m)_ | Medium || Strings
+2825 | [Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/) | [Java](./Strings/make_string_a_subsequence_using_cyclic_increments.java) | _O(n)_ | _O(1)_ | Medium || Strings, Two Pointers
 
 ## Linked List
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
