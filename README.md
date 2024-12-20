@@ -201,6 +201,7 @@
 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) | [Java](./Trees/range_sum_of_bst.java) | _O(n)_ | _O(n)_ | Easy || Tree, Breadth-First Search
 1448 | [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) | [Java](./Trees/count_good_nodes_in_binary_tree.java) | _O(n)_ | _O(h)_ | Medium || Tree, Preorder Depth-First Search
 1650 | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/description/) | [Java](./Trees/lowest_common_ancestor_of_a_binary_tree_iii.java) | _O(n)_ | _O(1)_ | Medium || Tree, Two Pointers
+2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/) | [Java](./Trees/reverse_odd_levels_of_binary_tree.java) | _O(n)_ | _O(n)_ | Medium || BFS, Two Pointers
 
 ## Heaps and Priority Queue
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
