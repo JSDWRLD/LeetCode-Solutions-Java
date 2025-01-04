@@ -131,8 +131,9 @@ Please let me know if there are more optimal solutions! <3
 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Java](./Strings/palindrome_partitioning.java) | _O(n * 2^n)_ | _O(n)_ | Medium || Strings, Backtracking
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Java](./Strings/reverse_words_in_a_string.java) | _O(n)_ | _O(n)_ | Medium || Stack, Two Pointers
 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Java](./Strings/word_pattern.java) | _O(n)_ | _O(n)_ | Easy || Strings, HashMap
+345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](./Strings/reverse_vowels_of_a_string.java) | _O(n)_ | _O(n)_ | Easy || Strings, HashMap
 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Java](./Strings/ransom_note.java) | _O(n)_ | _O(n)_ | Easy || Strings, HashMap
-387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Java](./Strings/first_unique_character_in_a_string.java) | _O(n)_ | _O(1)_ | Easy || Strings, HashMap
+387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Java](./Strings/first_unique_character_in_a_string.java) | _O(n)_ | _O(1)_ | Easy || Strings, Two Pointers
 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Java](./Strings/longest_repeating_character_replacement.java) | _O(n)_ | _O(1)_ | Medium || Hash Table, Sliding Window
 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [Java](./Strings/permutation_in_string.java) | _O(n)_ | _O(1)_ | Medium || Sliding Window
 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Java](./Strings/palindromic_substrings.java) | _O(n)_ | _O(1)_ | Medium || Two Pointers
