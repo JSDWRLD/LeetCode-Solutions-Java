@@ -199,6 +199,7 @@ Please let me know if there are more optimal solutions! <3
 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | [Java](./Trees/binary_tree_max_path_sum.java) | _O(n)_ | _O(n)_ | Hard || Depth-First Search
 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [Java](./Trees/sum_root_to_leaf_numbers.java) | _O(n)_ | _O(n)_ | Medium || Breadth-First Search
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Java](./Trees/binary_tree_preorder_traversal.java) | _O(n)_ | _O(n)_ | Easy || Depth-First Search
+145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Java](./Trees/binary_tree_postorder_traversal.java) | _O(n)_ | _O(n)_ | Easy || Depth-First Search
 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Java](./Trees/binary_tree_right_side_view.java) | _O(n)_ | _O(n)_ | Medium || Breadth-First Search
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Java](./Trees/invert_binary_tree.java) | _O(n)_ | _O(h)_ | Easy || Tree
 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Java](./Trees/kth_smallest_element_in_a_bst.java) | _O(n * log k)_ | _O(n * k)_ | Medium || Breadth-First Search, Kth
