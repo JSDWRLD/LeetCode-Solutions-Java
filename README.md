@@ -69,6 +69,7 @@ Please let me know if there are more optimal solutions! <3
 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Java](./Arrays/sort_array_by_parity.java) | _O(n)_ | _O(1)_ | Easy || Pointer
 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/) | [Java](./Arrays/smallest_range_i.java) | _O(n)_ | _O(1)_ | Easy || Arrays, Math
 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | [Java](./Arrays/sort_an_array.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Sorting
+916 | [Word Subsets](https://leetcode.com/problems/word-subsets/description/) | [Java](./Arrays/word_subsets.java) | _O(n*k + m*k)_ | _O(n)_ | Medium || Arrays, HashMap
 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [Java](./Arrays/subarray_sums_divisible_by_k.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Prefix Sum, HashMap
 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) | [Java](./Arrays/interval_list_intersections.java) | _O(n)_ | _O(n)_ | Medium || Intervals
 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) | [Java](./Arrays/count_number_of_nice_subarrays.java) | _O(n)_ | _O(k)_ | Medium || Sliding Window
