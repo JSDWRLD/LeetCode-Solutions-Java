@@ -255,6 +255,7 @@ Please let me know if there are more optimal solutions! <3
 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./Math/count_binary_substrings.java) | _O(n)_ | _O(1)_ | Medium || Math
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [Java](./Math/find_n_unique_integers_sum_up_to_zero.java) | _O(n)_ | _O(1)_ | Medium || Math
 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/description/) | [Java](./Math/add_two_integers.java) | _O(1)_ | _O(1)_ | Easy || Math, Bit Manipulation
+2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/) | [Java](./Math/bitwise_xor_of_all_pairings.java) | _O(n+m)_ | _O(n+m)_ | Medium || Set, Bit Manipulation
 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/) | [Java](./Math/minimize_xor.java) | _O(1)_ | _O(1)_ | Medium || Math, Bit Manipulation
 3007 | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/) | [Java](./Math/maximum_number_that_sum_of_the_prices.java.java) | _O(log k)_ | _O(log k)_ | Medium || Math, Bit Manipulation, Binary Search
 
