@@ -109,6 +109,7 @@ Please let me know if there are more optimal solutions! <3
 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | [Java](./MatrixGrids/magic_squares_in_grid.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix
 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | [Java](./MatrixGrids/rotting_oranges.java) | _O(r * c)_ | _O(r * c)_ | Medium || Breadth-first Search
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) | [Java](./MatrixGrids/shortest_path_in_binary_matrix.java) | _O(r * c)_ | _O(r * c)_ | Medium || Breadth-first Search
+1368 | [Minimum Cost to Make at Least One Valid Path_in_a_Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) | [Java](./MatrixGrids/minimum_cost_to_make_at_least_one_valid_path_in_a_grid.java) | _O(r * c)_ | _O(r * c)_ | Hard || Breadth-first Search
 
 
 ## HashMap
