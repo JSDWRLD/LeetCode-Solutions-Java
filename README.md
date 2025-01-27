@@ -115,6 +115,7 @@ Please let me know if there are more optimal solutions! <3
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) | [Java](./MatrixGrids/shortest_path_in_binary_matrix.java) | _O(r * c)_ | _O(r * c)_ | Medium || Breadth-first Search
 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/) | [Java](./MatrixGrids/count_servers_that_communicate.java) | _O(r * c)_ | _O(r + c)_ | Medium || Matrix, Grid
 1368 | [Minimum Cost to Make at Least One Valid Path_in_a_Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) | [Java](./MatrixGrids/minimum_cost_to_make_at_least_one_valid_path_in_a_grid.java) | _O(r * c)_ | _O(r * c)_ | Hard || Breadth-first Search
+1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/) | [Java](./MatrixGrids/course_schedule_iv.java) | _O(n^3 + q)_ | _O(n^2)_ | Medium || Topological Sort
 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/) | [Java](./MatrixGrids/map_of_highest_peak.java) | _O(r * c)_ | _O(r * c)_ | Medium || Breadth-first Search
 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/) | [Java](./MatrixGrids/first_completely_painted_row_or_column.java) | _O(r * c)_ | _O(r * c)_ | Medium || HashMap
 
