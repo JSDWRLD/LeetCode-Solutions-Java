@@ -106,6 +106,7 @@ Please let me know if there are more optimal solutions! <3
 407 | [Trapping_Rain_Water_II](https://leetcode.com/problems/trapping-rain-water-ii/description/) | [Java](./MatrixGrids/trapping_rain_water_ii.java) | _O(r * c)_ | _O(r * c)_ | Hard || Matrix, Breadth-First Search
 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [Java](./MatrixGrids/pacific_atlantic_water_flow.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search, Reverse Logic
 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [Java](./MatrixGrids/diagonal_traverse.java) | _O(r * c)_ | _O(1)_ | Medium || Outside Pointers
+684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [Java](./MatrixGrids/redundant_connection.java) | _O(v + e)_ | _O(v + e)_ | Medium || Graph Depth-First Search
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Java](./MatrixGrids/max_area_of_island.java) | _O(r * c)_ | _O(r * c)_ | Medium || Matrix, Graph Depth-First Search
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [Java](./MatrixGrids/flood_fill.java) | _O(r * c)_ | _O(r * c)_ | Easy || Depth-First Search
 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [Java](./MatrixGrids/toeplitz_matrix.java) | _O(r * c)_ | _O(d)_ | Medium || HashMap
