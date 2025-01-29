@@ -5,11 +5,12 @@ class Solution {
     public int findMaxFish(int[][] grid) {
         int maxFish = 0;
 
-        // O(r * c)
+        // O(r * c) scan 
         for (int r = 0; r < grid.length; r++) {
             for (int c = 0; c < grid[0].length; c++) {
-                if (grid[r][c] > 0) {
+                if (grid[r][c] > 0) { // O(1)
                     // BFS Processes each node only once, we mark visited as we go
+                    // BFS Worst case is O(r * c)
                     maxFish = Math.max(maxFish, bfs(grid, r, c));
                 }
             }
