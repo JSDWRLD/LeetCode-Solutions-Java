@@ -111,6 +111,7 @@ Please let me know if there are more optimal solutions! <3
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [Java](./MatrixGrids/flood_fill.java) | _O(r * c)_ | _O(r * c)_ | Easy || Depth-First Search
 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [Java](./MatrixGrids/toeplitz_matrix.java) | _O(r * c)_ | _O(d)_ | Medium || HashMap
 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) | [Java](./MatrixGrids/find_eventual_safe_states.java) | _O(v + e)_ | _O(v)_ | Medium || HashMap
+827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/) | [Java](./MatrixGrids/making_a_large_island.java) | _O(r * c)_ | _O(r * c)_ | Hard || HashSet, Depth-First Search
 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | [Java](./MatrixGrids/magic_squares_in_grid.java) | _O(r * c)_ | _O(r * c)_ | Medium || Graph, Depth-First Search
 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | [Java](./MatrixGrids/rotting_oranges.java) | _O(r * c)_ | _O(r * c)_ | Medium || Breadth-first Search
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) | [Java](./MatrixGrids/shortest_path_in_binary_matrix.java) | _O(r * c)_ | _O(r * c)_ | Medium || Breadth-first Search
