@@ -85,6 +85,7 @@ Please let me know if there are more optimal solutions! <3
 3042 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/) | [Java](./Arrays/count_prefix_and_suffix_pairs_i.java) | _O(n^2)_ | _O(1)_ | Easy || Arrays
 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/) | [Java](./Arrays/alternating_groups_ii.java) | _O(n)_ | _O(n)_ | Medium || Sliding Window
 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/) | [Java](./Arrays/type_of_triangle.java) | _O(1)_ | _O(1)_ | Easy || None
+3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | [Java](./Arrays/longest_strictly_increasing_or_strictly_decreasing_subarray.java) | _O(n)_ | _O(1)_ | Easy || None
 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/description/) | [Java](./Arrays/special_array_i.java) | _O(n)_ | _O(1)_ | Easy || None
 
 
