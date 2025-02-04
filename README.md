@@ -77,6 +77,7 @@ Please let me know if there are more optimal solutions! <3
 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/) | [Java](./Arrays/can_make_arithmetic_progression_from_sequence.java) | _O(n log n)_ | _O(1)_ | Easy || Arrays, Sort
 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) | [Java](./Arrays/kth_missing_positive_number.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Java](./Arrays/check_if_array_is_sorted_and_rotated.java) | _O(n)_ | _O(1)_ | Easy || Arrays
+1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Java](./Arrays/maximum_ascending_subarray_sum.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 2017 | [Grid Game](https://leetcode.com/problems/grid-game/description/) | [Java](./Arrays/grid_game.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Prefix Sum
 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | [Java](./Arrays/find_the_prefix_common_array_of_two_arrays.java) | _O(n)_ | _O(n + c)_ | Medium || HashSet
 2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/) | [Java](./Arrays/neighboring_bitwise_xor.java) | _O(n)_ | _O(1)_ | Medium || Math, Bitwise XOR
