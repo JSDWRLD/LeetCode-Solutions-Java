@@ -139,6 +139,7 @@ Please let me know if there are more optimal solutions! <3
 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/) | [Java](./Maps/prison_cells_after_n_days.java) | _O(n)_ | _O(1)_ | Medium || HashSet
 1346 | [Check If N and Its Double Exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | [Java](./Maps/check_if_n_and_its_double_exists.java) | _O(n)_ | _O(n)_ | Easy || HashSet
 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | [Java](./Maps/find_longest_special_substring_that_occurs_thrice_i.java) | _O(n^2)_ | _O(n^2)_ | Medium || HashMap, Pairs
+3160 | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/) | [Java](./Maps/find_the_number_of_distinct_colors_among_the_balls.java) | _O(n)_ | _O(n)_ | Medium || HashMap
 
 ## String
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
