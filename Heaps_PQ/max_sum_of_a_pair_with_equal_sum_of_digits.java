@@ -21,7 +21,7 @@ class Solution {
         }
 
         // Time Complexity: O(n log n)
-        // Space Complexity: O(d * n)
+        // Space Complexity: O(n)
         return max;
     }
     
