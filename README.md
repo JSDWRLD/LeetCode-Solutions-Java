@@ -138,6 +138,7 @@ Please let me know if there are more optimal solutions! <3
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Java](./Maps/valid_anagram.java) | _O(log n)_ | _O(n + m)_ | Easy || HashMap
 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Java](./Maps/longest_palindrome.java) | _O(n)_ | _O(1)_ | Easy || HashSet
 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/) | [Java](./Maps/prison_cells_after_n_days.java) | _O(n)_ | _O(1)_ | Medium || HashSet
+1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/) | [Java](./Maps/letter_tile_possibilities.java) | _O(n!)_ | _O(n)_ | Medium || Backtracking, HashMap
 1346 | [Check If N and Its Double Exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | [Java](./Maps/check_if_n_and_its_double_exists.java) | _O(n)_ | _O(n)_ | Easy || HashSet
 2349 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/) | [Java](./Maps/design_a_number_container_system.java) | _O(log n)_ | _O(n)_ | Medium || HashMap
 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | [Java](./Maps/find_longest_special_substring_that_occurs_thrice_i.java) | _O(n^2)_ | _O(n^2)_ | Medium || HashMap, Pairs
