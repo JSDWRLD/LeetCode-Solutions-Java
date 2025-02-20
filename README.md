@@ -282,6 +282,7 @@ Please let me know if there are more optimal solutions! <3
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [Java](./Math/sum_of_two_integers.java) | _O(n)_ | _O(1)_ | Medium || Math, Bit Manipulation
 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./Math/count_binary_substrings.java) | _O(n)_ | _O(1)_ | Medium || Math
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [Java](./Math/find_n_unique_integers_sum_up_to_zero.java) | _O(n)_ | _O(1)_ | Medium || Math
+1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/) | [Java](./Math/find_unique_binary_string.java) | _O(n)_ | _O(n)_ | Medium || Cantor's Diagonal Argument
 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/description/) | [Java](./Math/add_two_integers.java) | _O(1)_ | _O(1)_ | Easy || Math, Bit Manipulation
 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/) | [Java](./Math/bitwise_xor_of_all_pairings.java) | _O(n+m)_ | _O(n+m)_ | Medium || HashMap, Bit Manipulation
 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/) | [Java](./Math/minimize_xor.java) | _O(1)_ | _O(1)_ | Medium || Math, Bit Manipulation
