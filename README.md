@@ -78,6 +78,7 @@ Please let me know if there are more optimal solutions! <3
 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/) | [Java](./Arrays/can_make_arithmetic_progression_from_sequence.java) | _O(n log n)_ | _O(1)_ | Easy || Arrays, Sort
 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) | [Java](./Arrays/kth_missing_positive_number.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/) | [Java](./Arrays/tuple_with_same_product.java) | _O(n^2)_ | _O(p)_ | Medium || HashMap
+1749 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/) | [Java](./Arrays/maximum_absolute_sum_of_any_subarray.java) | _O(n)_ | _O(1)_ | Medium || Kadane's Alg
 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Java](./Arrays/check_if_array_is_sorted_and_rotated.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Java](./Arrays/maximum_ascending_subarray_sum.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 2017 | [Grid Game](https://leetcode.com/problems/grid-game/description/) | [Java](./Arrays/grid_game.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Prefix Sum
