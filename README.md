@@ -83,6 +83,7 @@ Please let me know if there are more optimal solutions! <3
 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Java](./Arrays/check_if_array_is_sorted_and_rotated.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Java](./Arrays/maximum_ascending_subarray_sum.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 2017 | [Grid Game](https://leetcode.com/problems/grid-game/description/) | [Java](./Arrays/grid_game.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Prefix Sum
+2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/) | [Java](./Arrays/apply_operations_to_an_array.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | [Java](./Arrays/find_the_prefix_common_array_of_two_arrays.java) | _O(n)_ | _O(n + c)_ | Medium || HashSet
 2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/) | [Java](./Arrays/neighboring_bitwise_xor.java) | _O(n)_ | _O(1)_ | Medium || Math, Bitwise XOR
 2892 | [Minimizing Array After Replacing Pairs With Their Product](https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product/description/) | [Java](./Arrays/minimizing_array_after_replacing_pairs_with_their_product.java) | _O(n)_ | _O(1)_ | Medium || Greedy
