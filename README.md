@@ -83,6 +83,7 @@ Please let me know if there are more optimal solutions! <3
 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Java](./Arrays/check_if_array_is_sorted_and_rotated.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Java](./Arrays/maximum_ascending_subarray_sum.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 2017 | [Grid Game](https://leetcode.com/problems/grid-game/description/) | [Java](./Arrays/grid_game.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Prefix Sum
+2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Java](./Arrays/partition_array_according_to_given_pivot.java) | _O(n)_ | _O(n)_ | Medium || Arrays
 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/) | [Java](./Arrays/apply_operations_to_an_array.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/) | [Java](./Arrays/merge_two_2d_arrays_by_summing_values.java) | _O(n + m)_ | _O(n + m)_ | Easy || Arrays
 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | [Java](./Arrays/find_the_prefix_common_array_of_two_arrays.java) | _O(n)_ | _O(n + c)_ | Medium || HashSet
