@@ -291,6 +291,7 @@ Please let me know if there are more optimal solutions! <3
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [Java](./Math/sum_of_two_integers.java) | _O(n)_ | _O(1)_ | Medium || Math, Bit Manipulation
 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./Math/count_binary_substrings.java) | _O(n)_ | _O(1)_ | Medium || Math
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [Java](./Math/find_n_unique_integers_sum_up_to_zero.java) | _O(n)_ | _O(1)_ | Medium || Math
+1780 | [Check if number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/) | [Java](./Math/check_if_number_is_a_sum_of_powers_of_three.java) | _O(2^logn)_ | _O(logn)_ | Medium || Math, Backtracking
 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/) | [Java](./Math/find_unique_binary_string.java) | _O(n)_ | _O(n)_ | Medium || Cantor's Diagonal Argument
 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/description/) | [Java](./Math/add_two_integers.java) | _O(1)_ | _O(1)_ | Easy || Math, Bit Manipulation
 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/) | [Java](./Math/bitwise_xor_of_all_pairings.java) | _O(n+m)_ | _O(n+m)_ | Medium || HashMap, Bit Manipulation
