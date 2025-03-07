@@ -297,6 +297,7 @@ Please let me know if there are more optimal solutions! <3
 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/description/) | [Java](./Math/add_two_integers.java) | _O(1)_ | _O(1)_ | Easy || Math, Bit Manipulation
 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/) | [Java](./Math/bitwise_xor_of_all_pairings.java) | _O(n+m)_ | _O(n+m)_ | Medium || HashMap, Bit Manipulation
 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/) | [Java](./Math/minimize_xor.java) | _O(1)_ | _O(1)_ | Medium || Math, Bit Manipulation
+2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/) | [Java](./Math/closest_prime_numbers_in_range.java) | _O((r-l)*sqrt(r))_ | _O(r-l)_ | Medium || Math
 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/) | [Java](./Math/count_total_number_of_colored_cells.java) | _O(1)_ | _O(1)_ | Medium || Math
 3007 | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/) | [Java](./Math/maximum_number_that_sum_of_the_prices.java.java) | _O(log k)_ | _O(log k)_ | Medium || Math, Bit Manipulation, Binary Search
 
