@@ -174,6 +174,7 @@ Please let me know if there are more optimal solutions!
 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Java](./Strings/custom_sort_string.java) | _O(n + m)_ | _O(n)_ | Medium || HashMap
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) | [Java](./Strings/unique_email_addresses.java) | _O(n * m)_ | _O(m)_ | Easy || HashSet
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | [Java](./Strings/find_common_characters.java) | _O(n * m)_ | _O(26)_ | Easy || Character Frequency
+1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | [Java](./Strings/longest_common_subsequence.java) | _O(n * m)_ | _O(n * m)_ | Medium || Dynamic Programming, Bottom Up
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) | [Java](./Strings/split_a_string_in_balanced_strings.java) | _O(n)_ | _O(1)_ | Easy || Strings
 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [Java](./Strings/construct_k_palindrome_strings.java) | _O(n)_ | _O(1)_ | Medium || Character Frequency
 1422 | [Maximum Score After Splittinga String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) | [Java](./Strings/maximum_score_after_splitting_string.java) | _O(n)_ | _O(1)_ | Easy || Strings
