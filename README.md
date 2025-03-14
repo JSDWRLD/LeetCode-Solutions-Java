@@ -207,6 +207,7 @@ Please let me know if there are more optimal solutions!
 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Java](./LinkedLists/linked_list_cycle_II.java) | _O(n)_ | _O(1)_ | Medium || Slow/Fast Pointer, Two Pointers
 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [Java](./LinkedLists/reorder_list.java) | _O(n)_ | _O(1)_ | Medium || Two Pointers, Fast and Slow Pointer
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Java](./LinkedLists/lru_cache.java) | _O(1)_ | _O(n)_ | Medium || Hash Table, Doubly LinkedList
+160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Java](./LinkedLists/intersection_of_two_linked_lists.java) | _O(n)_ | _O(n)_ | Medium || Linked List
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Java](./LinkedLists/remove_linked_list_elements.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./LinkedLists/reverse_linked_list.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Java](./LinkedLists/add_two_numbers_ii.java) | _O(n)_ | _O(n)_ | Medium || In Place Reversal, Singly-Linked List
