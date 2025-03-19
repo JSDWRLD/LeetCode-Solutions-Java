@@ -305,6 +305,7 @@ Please let me know if there are more optimal solutions!
 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/) | [Java](./Math/closest_prime_numbers_in_range.java) | _O((r-l)*sqrt(r))_ | _O(r-l)_ | Medium || Math
 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/) | [Java](./Math/count_total_number_of_colored_cells.java) | _O(1)_ | _O(1)_ | Medium || Math
 3007 | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/) | [Java](./Math/maximum_number_that_sum_of_the_prices.java.java) | _O(log k)_ | _O(log k)_ | Medium || Math, Bit Manipulation, Binary Search
+3191 | [Minimum Operation to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/) | [Java](./Math/minimum_operation_to_make_binary_array_elements_equal_to_one_i.java) | _O(n)_ | _O(1)_ | Medium ||  Bit Manipulation, Binary Search
 
 ## Dynamic Programming
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
