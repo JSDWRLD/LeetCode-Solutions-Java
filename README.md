@@ -135,6 +135,7 @@ Please let me know if there are more optimal solutions!
 2467 | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/) | [Java](./MatrixGrids/most_profitable_path_in_a_tree.java) | _O(n)_ | _O(n)_ | Medium || Breadth-first Search, Depth-first Search, HashMap
 2658 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/) | [Java](./MatrixGrids/maximum_number_of_fish_in_a_grid.java) | _O(r * c)_ | _O(r * c)_ | Medium || Breadth-First Search
 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/) | [Java](./MatrixGrids/first_completely_painted_row_or_column.java) | _O(r * c)_ | _O(r * c)_ | Medium || HashMap
+3108 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/) | [Java](./MatrixGrids/minimum_cost_walk_in_weighted_graph.java) | _O(m + n)_ | _O(n)_ | Hard || Union Find
 
 
 ## HashMap
