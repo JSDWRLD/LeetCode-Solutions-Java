@@ -97,6 +97,7 @@ Please let me know if there are more optimal solutions!
 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | [Java](./Arrays/longest_strictly_increasing_or_strictly_decreasing_subarray.java) | _O(n)_ | _O(1)_ | Easy || None
 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/description/) | [Java](./Arrays/special_array_i.java) | _O(n)_ | _O(1)_ | Easy || None
 3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/) | [Java](./Arrays/zero_array_transformation_ii.java) | _O(n * m)_ | _O(n)_ | Medium || None
+3394 | [Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/) | [Java](./Arrays/check_if_grid_can_be_cut_into_sections.java) | _O(n log n)_ | _O(1)_ | Medium || Merge Intervals
 
 
 ## Matrix and Graph
