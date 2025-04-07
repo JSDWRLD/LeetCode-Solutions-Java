@@ -1,3 +1,42 @@
+// Bottom up tabulation
+class Solution {
+    public boolean canPartition(int[] nums) {
+        int total = 0;
+        for (int n : nums) total += n;
+
+        // target number is the sum / 2 because they have to be equal
+        if (total % 2 != 0) return false; // odd number not possible
+        int target = total/2;
+    
+        // Rows define current number, col defines sum, true if possible
+        boolean[][] dp = new boolean[nums.length+1][target+1];
+        dp[0][0] = true;
+        
+        for (int row = 1; row <= nums.length; row++) {
+            // Get the current number / item
+            int currNum = nums[row-1];
+            for (int sum = 0; sum <= target; sum++) {
+                if (sum < currNum) {
+                    // take previous
+                    dp[row][sum] = dp[row-1][sum];
+                } else {
+                    // Take item or dont take item
+                    dp[row][sum] = dp[row-1][sum] || dp[row-1][sum-currNum];
+                }
+            }
+        }
+
+        // If our final block is true that means we can achive our target
+        // since we can achieve our target, this implies that there is another
+        // equal subset that has the same target value since we took total/2
+        // n is the total number of numbers, s is the totalSum/2
+        // Time Complexity: O(n * s)
+        // Space Complexity: O(n * s)
+        return dp[nums.length][target];
+    }
+}
+
+// Top down memoization 
 class Solution {
     public boolean canPartition(int[] nums) {
         int sum = 0;
