@@ -99,6 +99,7 @@ Please let me know if you have a faster solution!
 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/description/) | [Java](./Arrays/special_array_i.java) | _O(n)_ | _O(1)_ | Easy || None
 3169 | [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/) | [Java](./Arrays/count_days_without_mettings.java) | _O(n log n)_ | _O(n)_ | Medium || Sorting, Merge Intervals
 3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/) | [Java](./Arrays/zero_array_transformation_ii.java) | _O(n * m)_ | _O(n)_ | Medium || None
+3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/) | [Java](./Arrays/minimum_operations_to_make_array_values_equal_to_k.java) | _O(n)_ | _O(n)_ | Easy || HashSet
 3394 | [Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/) | [Java](./Arrays/check_if_grid_can_be_cut_into_sections.java) | _O(n log n)_ | _O(1)_ | Medium || Merge Intervals
 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/) | [Java](./Arrays/minimum_number_of_operations_to_make_elements_in_array_distinct.java) | _O(n)_ | _O(n)_ | Medium || HashSet
 
