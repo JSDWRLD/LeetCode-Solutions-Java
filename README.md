@@ -201,6 +201,7 @@ Please let me know if you have a faster solution!
 2825 | [Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/) | [Java](./Strings/make_string_a_subsequence_using_cyclic_increments.java) | _O(n)_ | _O(1)_ | Medium || Strings, Two Pointers
 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/) | [Java](./Strings/move_pieces_to_obtain_a_string.java) | _O(n)_ | _O(1)_ | Medium || Strings, Two Pointers
 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/) | [Java](./Strings/minimum_recolors_to_get_k_consecutive_black_blocks.java) | _O(n)_ | _O(1)_ | Easy || Strings, Sliding Window
+2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/) | [Java](./Strings/count_symmetric_integers.java) | _O(n * d)_ | _O(1)_ | Easy || Strings, Char Array
 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/description/) | [Java](./Strings/clear_digits.java) | _O(n)_ | _O(n)_ | Easy || Stack
 3223 | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) | [Java](./Strings/minimum_length_of_string_after_operations.java) | _O(n)_ | _O(1)_ | Medium || Strings, Character Frequency
 
