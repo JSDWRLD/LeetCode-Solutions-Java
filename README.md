@@ -321,6 +321,7 @@ Please let me know if you have a faster solution!
 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/) | [Java](./Math/count_total_number_of_colored_cells.java) | _O(1)_ | _O(1)_ | Medium || Math
 3007 | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/) | [Java](./Math/maximum_number_that_sum_of_the_prices.java.java) | _O(log k)_ | _O(log k)_ | Medium || Math, Bit Manipulation, Binary Search
 3191 | [Minimum Operation to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/) | [Java](./Math/minimum_operation_to_make_binary_array_elements_equal_to_one_i.java) | _O(n)_ | _O(1)_ | Medium ||  Bit Manipulation, Binary Search
+3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/description/) | [Java](./Math/find_the_count_of_good_integers.java) | _O(n log n * 10^m)_ | _O(n * 10^m)_ | Hard || Math, Frequency Count, Combinatorics, Permutations, Backtracking
 
 ## Dynamic Programming
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
