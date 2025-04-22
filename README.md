@@ -83,6 +83,7 @@ Please let me know if you have a faster solution!
 1749 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/) | [Java](./Arrays/maximum_absolute_sum_of_any_subarray.java) | _O(n)_ | _O(1)_ | Medium || Kadane's Alg
 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Java](./Arrays/check_if_array_is_sorted_and_rotated.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Java](./Arrays/maximum_ascending_subarray_sum.java) | _O(n)_ | _O(1)_ | Easy || Arrays
+1868 | [Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/) | [Java](./Arrays/product_of_two_run_length_encoded_arrays.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Two Pointers
 2017 | [Grid Game](https://leetcode.com/problems/grid-game/description/) | [Java](./Arrays/grid_game.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Prefix Sum
 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Java](./Arrays/partition_array_according_to_given_pivot.java) | _O(n)_ | _O(n)_ | Medium || Arrays
 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/) | [Java](./Arrays/apply_operations_to_an_array.java) | _O(n)_ | _O(1)_ | Easy || Arrays
