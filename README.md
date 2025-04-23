@@ -164,6 +164,7 @@ Please let me know if you have a faster solution!
 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/) | [Java](./Maps/prison_cells_after_n_days.java) | _O(n)_ | _O(1)_ | Medium || HashSet
 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/) | [Java](./Maps/letter_tile_possibilities.java) | _O(n!)_ | _O(n)_ | Medium || Backtracking, HashMap
 1346 | [Check If N and Its Double Exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | [Java](./Maps/check_if_n_and_its_double_exists.java) | _O(n)_ | _O(n)_ | Easy || HashSet
+1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/description/) | [Java](./Maps/count_largest_group.java) | _O(n log n)_ | _O(log n)_ | Easy || HashSet
 2349 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/) | [Java](./Maps/design_a_number_container_system.java) | _O(log n)_ | _O(n)_ | Medium || HashMap
 2780 | [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/) | [Java](./Maps/minimum_index_of_a_valid_split.java) | _O(n)_ | _O(n)_ | Medium || HashMap
 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/) | [Java](./Maps/find_missing_and_repeated_values.java) | _O(n^2)_ | _O(n^2)_ | Easy || HashMap
