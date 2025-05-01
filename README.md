@@ -347,6 +347,7 @@ Please let me know if you have a faster solution!
 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](./DynamicProgramming/house_robber.java) | _O(n)_ | _O(1)_ | Medium || Memoization, Recursion
 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/) | [Java](./DynamicProgramming/largest_divisible_subset.java) | _O(n^2)_ | _O(n)_ | Medium || Dp
 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](./DynamicProgramming/partition_equal_subset_sum.java) | _O(n * s)_ | _O(n * s)_ | Medium || Memoization, Bottom-Up
+474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | [Java](./DynamicProgramming/ones_and_zeroes.java) | _O(s * m * n)_ | _O(m * n)_ | Medium || Bottom-Up Tabulation
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Java](./DynamicProgramming/fibonacci_number.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Java](./DynamicProgramming/min_cost_climbing_stairs.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
 1718 | [Construct the Lexicographically Larger Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/) | [Java](./DynamicProgramming/construct_the_lexicographically_larger_valid_sequence.java) | _O(n!)_ | _O(n)_ | Medium || Backtracking
