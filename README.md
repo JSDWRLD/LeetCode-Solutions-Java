@@ -198,6 +198,7 @@ Please let me know if you have a faster solution!
 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](./Strings/valid_palindrome_ii.java) | _O(n)_ | _O(1)_ | Easy || Two Pointers
 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Java](./Strings/letter_case_permutation.java) | _O(2^n)_ | _O(2^n)_ | Medium || Subsets
 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Java](./Strings/custom_sort_string.java) | _O(n + m)_ | _O(n)_ | Medium || HashMap
+838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) | [Java](./Strings/push_dominoes.java) | _O(n)_ | _O(n)_ | Medium || Two Pointers
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) | [Java](./Strings/unique_email_addresses.java) | _O(n * m)_ | _O(m)_ | Easy || HashSet
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | [Java](./Strings/find_common_characters.java) | _O(n * m)_ | _O(26)_ | Easy || Character Frequency
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | [Java](./Strings/longest_common_subsequence.java) | _O(n * m)_ | _O(n * m)_ | Medium || Dynamic Programming, Bottom Up
