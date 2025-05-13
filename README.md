@@ -224,6 +224,7 @@ Please let me know if you have a faster solution!
 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/) | [Java](./Strings/count_symmetric_integers.java) | _O(n * d)_ | _O(1)_ | Easy || Strings, Char Array
 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/description/) | [Java](./Strings/clear_digits.java) | _O(n)_ | _O(n)_ | Easy || Stack
 3223 | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) | [Java](./Strings/minimum_length_of_string_after_operations.java) | _O(n)_ | _O(1)_ | Medium || Strings, Character Frequency
+3335 | [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/description/) | [Java](./Strings/total_characters_in_string_after_transformations_i.java) | _O(n + t*k)_ | _O(k)_ | Medium || Strings, Character Frequency
 
 
 ## Linked List
