@@ -49,6 +49,7 @@ Please let me know if you have a faster solution!
 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Java](./Arrays/majority_element.java) | _O(n log n)_ | _O(1)_ | Easy || Sort
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./Arrays/contains_duplicate.java) | _O(n)_ | _O(n)_ | Easy || HashSet
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Java](./Arrays/product_of_array_except_self.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Prefix Sum
+252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | [Java](./Arrays/meeting_rooms.java) | _O(n log n)_ | _O(1)_ | Easy || Arrays, Greedy
 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [Java](./Arrays/single_number_iii.java) | _O(n)_ | _O(1)_ | Medium || Bit Manipulation
 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](./Arrays/missing_number.java) | _O(n)_ | _O(1)_ | Easy || Cyclic Sort
 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Java](./Arrays/move_zeros.java) | _O(n)_ | _O(1)_ | Easy || Two Pointers
