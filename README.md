@@ -347,6 +347,7 @@ Please let me know if you have a faster solution!
 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/) | [Java](./Math/find_unique_binary_string.java) | _O(n)_ | _O(n)_ | Medium || Cantor's Diagonal Argument
 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/description/) | [Java](./Math/add_two_integers.java) | _O(1)_ | _O(1)_ | Easy || Math, Bit Manipulation
 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/) | [Java](./Math/bitwise_xor_of_all_pairings.java) | _O(n+m)_ | _O(n+m)_ | Medium || HashMap, Bit Manipulation
+2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [Java](./Math/number_of_common_factors.java) | _O(n)_ | _O(1)_ | Medium || Math
 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/) | [Java](./Math/minimize_xor.java) | _O(1)_ | _O(1)_ | Medium || Math, Bit Manipulation
 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/) | [Java](./Math/closest_prime_numbers_in_range.java) | _O((r-l)*sqrt(r))_ | _O(r-l)_ | Medium || Math
 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/) | [Java](./Math/count_total_number_of_colored_cells.java) | _O(1)_ | _O(1)_ | Medium || Math
