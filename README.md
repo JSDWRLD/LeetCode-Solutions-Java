@@ -41,6 +41,7 @@ Please let me know if you have a faster solution!
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](./Arrays/best_time_to_buy_and_sell_stock.java) | _O(n)_ | _O(1)_ | Easy || Arrays, Sliding Window
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Java](./Arrays/longest_consecutive_sequence.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Set
 134 | [Gas Station](https://leetcode.com/problems/gas-station/description/) | [Java](./Arrays/gas_station.java) | _O(n)_ | _O(1)_ | Medium || Greedy
+135 | [Candy](https://leetcode.com/problems/candy/description/) | [Java](./Arrays/candy.java) | _O(n)_ | _O(n)_ | Hard || Greedy
 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [Java](./Arrays/single_number.java) | _O(n)_ | _O(1)_ | Easy || Bit Manipulation
 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Java](./Arrays/maximum_product_subarray.java) | _O(n)_ | _O(1)_ | Medium || Max/Min 
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Java](./Arrays/find_minimum_in_rotated_sorted_array.java) | _O(log n)_ | _O(1)_ | Medium || Arrays, Binary Search
