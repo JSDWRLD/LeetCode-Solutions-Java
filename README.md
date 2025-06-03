@@ -290,6 +290,7 @@ Please let me know if you have a faster solution!
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Java](./Trees/binary_tree_preorder_traversal.java) | _O(n)_ | _O(n)_ | Easy || Depth-First Search
 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Java](./Trees/binary_tree_postorder_traversal.java) | _O(n)_ | _O(n)_ | Easy || Depth-First Search
 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Java](./Trees/binary_tree_right_side_view.java) | _O(n)_ | _O(n)_ | Medium || Breadth-First Search
+222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | [Java](./Trees/count_complete_tree_nodes.java) | _O(n)_ | _O(n)_ | Easy || Breadth-First Search
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Java](./Trees/invert_binary_tree.java) | _O(n)_ | _O(h)_ | Easy || Tree
 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Java](./Trees/kth_smallest_element_in_a_bst.java) | _O(n * log k)_ | _O(n * k)_ | Medium || Breadth-First Search, Kth
 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Java](./Trees/lowest_common_ancestor_of_a_bst.java) | _O(log n)_ | _O(n)_ | Medium || Tree
