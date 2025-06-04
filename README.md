@@ -232,6 +232,7 @@ Please let me know if you have a faster solution!
 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/description/) | [Java](./Strings/clear_digits.java) | _O(n)_ | _O(n)_ | Easy || Stack
 3223 | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) | [Java](./Strings/minimum_length_of_string_after_operations.java) | _O(n)_ | _O(1)_ | Medium || Strings, Character Frequency
 3335 | [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/description/) | [Java](./Strings/total_characters_in_string_after_transformations_i.java) | _O(n + t*k)_ | _O(k)_ | Medium || Strings, Character Frequency
+3403 | [Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/description/) | [Java](./Strings/find_the_lexicographically_largest_string_from_the_box_i.java) | _O(n^2)_ | _O(n)_ | Medium || Enumeration
 
 
 ## Linked List
