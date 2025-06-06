@@ -268,6 +268,7 @@ Please let me know if you have a faster solution!
 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) | [Java](./Stacks/minimum_remove_to_make_valid_parentheses.java) | _O(n)_ | _O(n)_ | Medium || Stack, Set
 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/) | [Java](./Stacks/the_kth_lexicographical_string_of_all_happy_strings_of_length_n.java) | _O(n * 2^n)_ | _O(n^2)_ | Medium || Stack
 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/) | [Java](./Stacks/construct_smallest_number_from_di_string.java) | _O(n)_ | _O(n)_ | Medium || Stack
+2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Java](./Stacks/using_a_robot_to_print_the_lexicographically_smallest_string.java) | _O(n)_ | _O(n)_ | Medium || Stack
 
 ## Tree
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
