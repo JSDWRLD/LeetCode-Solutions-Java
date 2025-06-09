@@ -345,6 +345,7 @@ Please let me know if you have a faster solution!
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Java](./Math/first_bad_version.java) | _O(log n)_ | _O(1)_ | Easy || Binary Search
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [Java](./Math/sum_of_two_integers.java) | _O(n)_ | _O(1)_ | Medium || Math, Bit Manipulation
 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | [Java](./Math/lexicographical_numbers.java) | _O(n)_ | _O(1)_ | Medium || Trie
+440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) | [Java](./Math/k-th_smallest_in_lexicographical_order.java) | _O(log n ^ 2)_ | _O(1)_ | Hard || Trie
 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./Math/count_binary_substrings.java) | _O(n)_ | _O(1)_ | Medium || Math
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | [Java](./Math/find_numbers_with_even_number_of_digits.java) | _O(n)_ | _O(1)_ | Medium || Math, Logs
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [Java](./Math/find_n_unique_integers_sum_up_to_zero.java) | _O(n)_ | _O(1)_ | Medium || Math
