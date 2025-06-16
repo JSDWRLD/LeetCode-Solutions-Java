@@ -89,6 +89,7 @@ Please let me know if you have a faster solution!
 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Java](./Arrays/check_if_array_is_sorted_and_rotated.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Java](./Arrays/maximum_ascending_subarray_sum.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 1868 | [Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/) | [Java](./Arrays/product_of_two_run_length_encoded_arrays.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Two Pointers
+2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/) | [Java](./Arrays/maximum_difference_between_increasing_elements.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 2017 | [Grid Game](https://leetcode.com/problems/grid-game/description/) | [Java](./Arrays/grid_game.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Prefix Sum
 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Java](./Arrays/finding_3_digit_even_numbers.java) | _O(n)_ | _O(1)_ | Medium || Freqeuncy Count
 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Java](./Arrays/partition_array_according_to_given_pivot.java) | _O(n)_ | _O(n)_ | Medium || Arrays
