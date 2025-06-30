@@ -61,6 +61,7 @@ Please let me know if you have a better solution!
 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Java](./Arrays/find_all_numbers_disappeared_in_an_array.java) | _O(n)_ | _O(1)_ | Easy || Cyclic Sort
 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | [Java](./Arrays/random_pick_with_weight.java) | _O(log n)_ | _O(1)_ | Medium || Prefix Sum, Binary Search
 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [Java](./Arrays/distribute_candies.java) | _O(n)_ | _O(n)_ | Easy || HashSet
+594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Java](./Arrays/longest_harmonious_subsequence.java) | _O(n)_ | _O(n)_ | Easy || HashMap, Frequency Count
 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](./Arrays/maximum_average_subarray_i.java) | _O(n)_ | _O(1)_ | Easy || Sliding Window, Arrays
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | [Java](./Arrays/set_mismatch.java) | _O(n)_ | _O(1)_ | Easy || Cyclic Sort
 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) | [Java](./Arrays/find_k_closest_elements.java) | _O(log n + k)_ | _O(1)_ | Medium || Binary Search
