@@ -362,6 +362,7 @@ Please let me know if you have a better solution!
 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](./Math/add_binary.java) | _O(n)_ | _O(n)_ | Easy || Char Manipulation
 69 | [Sqrt](https://leetcode.com/problems/sqrtx/description/) | [Java](./Math/sqrt.java) | _O(log n)_ | _O(1)_ | Easy || Binary Search
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Java](./Math/first_bad_version.java) | _O(log n)_ | _O(1)_ | Easy || Binary Search
+367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | [Java](./Math/valid_perfect_square.java) | _O(n)_ | _O(1)_ | Easy || Math
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [Java](./Math/sum_of_two_integers.java) | _O(n)_ | _O(1)_ | Medium || Math, Bit Manipulation
 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | [Java](./Math/lexicographical_numbers.java) | _O(n)_ | _O(1)_ | Medium || Trie
 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) | [Java](./Math/k-th_smallest_in_lexicographical_order.java) | _O(log n ^ 2)_ | _O(1)_ | Hard || Trie
