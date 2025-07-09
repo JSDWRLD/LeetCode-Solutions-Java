@@ -126,6 +126,7 @@ Please let me know if you have a better solution!
 3394 | [Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/) | [Java](./Arrays/check_if_grid_can_be_cut_into_sections.java) | _O(n log n)_ | _O(1)_ | Medium || Merge Intervals
 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/) | [Java](./Arrays/minimum_number_of_operations_to_make_elements_in_array_distinct.java) | _O(n)_ | _O(n)_ | Medium || HashSet
 3423 | [Maximum Difference Between Adjacent Elements Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/) | [Java](./Arrays/maximum_difference_between_adjacent_elements_circular_array.java) | _O(n)_ | _O(1)_ | Easy || Arrays
+3439 | [Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | [Java](./Arrays/reschedule_meeting_for_maxiumum_free_time_i.java) | _O(n)_ | _O(n)_ | Medium || Arrays
 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/) | [Java](./Arrays/maximum_difference_between_even_and_odd_frequency_i.java) | _O(n)_ | _O(26)_ | Easy || Frequency Count
 
 
