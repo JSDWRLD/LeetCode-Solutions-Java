@@ -279,7 +279,7 @@ Please let me know if you have a better solution!
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./LinkedLists/reverse_linked_list.java) | _O(n)_ | _O(1)_ | Easy || ListNode, Singly Linked List
 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Java](./LinkedLists/add_two_numbers_ii.java) | _O(n)_ | _O(n)_ | Medium || In Place Reversal, Singly-Linked List
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](./LinkedLists/middle_of_the_linked_list.java) | _O(n)_ | _O(1)_ | Easy || 
-1290 | [Convert Binary Number in a Linked List to Integer]([https://leetcode.com/problems/add-two-numbers-ii/description/](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | [Java](./LinkedLists/convert_binary_number_in_a_linked_list_to_interger.java) | _O(n)_ | _O(1)_ | Easy || In Place Reversal, Singly-Linked List
+1290 | [Convert Binary Number in a Linked List to Integer] | (https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | [Java](./LinkedLists/convert_binary_number_in_a_linked_list_to_interger.java) | _O(n)_ | _O(1)_ | Easy || In Place Reversal, Singly-Linked List
 
 ## Stack
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
