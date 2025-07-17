@@ -287,7 +287,7 @@ Please let me know if you have a better solution!
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 20 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/) | [Java](./Stacks/valid_parentheses.java) | _O(n)_ | _O(1)_ | Easy || Stacks
-138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Java](./Stacks/copy_list_with_random_pointer.java) | _O(n)_ | _O(n)_ | Medium || HashMap, Arrays
+138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Java](./Stacks/copy_list_with_random_pointer.java) | _O(n)_ | _O(n)_ | Medium || HashMap
 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [Java](./Stacks/evaluate_reverse_polish_notation.java) | _O(n)_ | _O(n)_ | Medium || Math, Arrays
 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./Stacks/min_stack.java) | _O(1)_ | _O(n)_ | Medium | Design | Stacks
 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Java](./Stacks/basic_calculator_ii.java) | _O(n)_ | _O(n)_ | Medium || Stacks
