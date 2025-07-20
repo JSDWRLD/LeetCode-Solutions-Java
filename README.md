@@ -28,6 +28,7 @@ Please let me know if you have a better solution!
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Java](./Arrays/search_in_rotated_sorted_array.java) | _O(log n)_ | _O(1)_ | Medium || Arrays, Binary Search
 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Java](./Arrays/find_first_and_last_position_of_element_in_sorted_array.java) | _O(log n)_ | _O(1)_ | Medium || Arrays, Binary Search
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Java](./Arrays/search_insert_position.java) | _O(log n)_ | _O(1)_ | Easy || Arrays, Binary Search
+40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Java](./Arrays/combination_sum_ii.java) | _O(2^n)_ | _O(n)_ | Mediumn || Backtracking
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Java](./Arrays/trapping_rain_water.java) | _O(n)_ | _O(1)_ | Hard || Two Pointers
 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [Java](./Arrays/jump_game_ii.java) | _O(n)_ | _O(1)_ | Medium || Two Pointers
 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Java](./Arrays/permutations.java) | _O(n * p!)_ | _O(n * p!)_ | Medium || Breadth-First
