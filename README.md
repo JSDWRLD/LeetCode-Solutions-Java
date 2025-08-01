@@ -412,6 +412,7 @@ Please let me know if you have a better solution!
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Java](./DynamicProgramming/combination_sum.java) | _O(2^n)_ | _O(n)_ | Medium || Backtracking, Recursion
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./DynamicProgramming/climbing_stairs.java) | _O(n)_ | _O(n)_ | Easy || Memoization, Recursion
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [Java](./DynamicProgramming/decode_ways.java) | _O(n)_ | _O(n)_ | Medium || Memoization, Recursion
+118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Java](./DynamicProgramming/pascal's_triangle.java) | _O(n^2)_ | _O(1)_ | Easy || Bottom-Up
 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Java](./DynamicProgramming/word_break.java) | _O(n * m)_ | _O(n)_ | Medium || DP, Iterative
 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](./DynamicProgramming/house_robber.java) | _O(n)_ | _O(1)_ | Medium || Memoization, Recursion
 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/) | [Java](./DynamicProgramming/largest_divisible_subset.java) | _O(n^2)_ | _O(n)_ | Medium || Dp
