@@ -134,6 +134,7 @@ Please let me know if you have a better solution!
 3423 | [Maximum Difference Between Adjacent Elements Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/) | [Java](./Arrays/maximum_difference_between_adjacent_elements_circular_array.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 3439 | [Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | [Java](./Arrays/reschedule_meeting_for_maxiumum_free_time_i.java) | _O(n)_ | _O(n)_ | Medium || Arrays
 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/) | [Java](./Arrays/maximum_difference_between_even_and_odd_frequency_i.java) | _O(n)_ | _O(26)_ | Easy || Frequency Count
+3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/) | [Java](./Arrays/fruits_into_baskets_ii.java) | _O(n^2)_ | _O(1)_ | Easy || Simulation
 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/) | [Java](./Arrays/maximum_unique_subarray_sum_after_deletion.java) | _O(n)_ | _O(n)_ | Easy || HashSet, Greedy
 
 
