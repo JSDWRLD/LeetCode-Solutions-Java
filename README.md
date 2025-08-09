@@ -381,7 +381,8 @@ Please let me know if you have a better solution!
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Java](./Math/palindrome_number.java) | _O(log n)_ | _O(1)_ | Medium || Math
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [Java](./Math/divide_two_integers.java) | _O(log D/d)_ | _O(1)_ | Medium || Math
 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](./Math/add_binary.java) | _O(n)_ | _O(n)_ | Easy || Char Manipulation
-69 | [Sqrt](https://leetcode.com/problems/sqrtx/description/) | [Java](./Math/sqrt.java) | _O(log n)_ | _O(1)_ | Easy || Binary Search
+69 | [Sqrt](https://leetcode.com/problems/sqrtx/description/) | [Java](./Math/sqrt.java) | _O(1)_ | _O(1)_ | Easy || Math
+231 | [Power of Two](https://leetcode.com/problems/power-of-two/submissions/1728482315/) | [Java](./Math/power_of_two.java) | _O(log n)_ | _O(1)_ | Easy || Binary Search
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Java](./Math/first_bad_version.java) | _O(log n)_ | _O(1)_ | Easy || Binary Search
 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | [Java](./Math/valid_perfect_square.java) | _O(n)_ | _O(1)_ | Easy || Math
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [Java](./Math/sum_of_two_integers.java) | _O(n)_ | _O(1)_ | Medium || Math, Bit Manipulation
