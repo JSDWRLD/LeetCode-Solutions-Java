@@ -235,6 +235,7 @@ Please let me know if you have a better solution!
 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Java](./Strings/longest_repeating_character_replacement.java) | _O(n)_ | _O(1)_ | Medium || Hash Table, Sliding Window
 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [Java](./Strings/permutation_in_string.java) | _O(n)_ | _O(1)_ | Medium || Sliding Window
 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Java](./Strings/palindromic_substrings.java) | _O(n)_ | _O(1)_ | Medium || Two Pointers
+678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/) | [Java](./Strings/valid_parenthesis_string.java) | _O(n)_ | _O(1)_ | Medium || Two Pointers
 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](./Strings/valid_palindrome_ii.java) | _O(n)_ | _O(1)_ | Easy || Two Pointers
 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Java](./Strings/letter_case_permutation.java) | _O(2^n)_ | _O(2^n)_ | Medium || Subsets
 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Java](./Strings/custom_sort_string.java) | _O(n + m)_ | _O(n)_ | Medium || HashMap
