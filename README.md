@@ -387,6 +387,7 @@ Please let me know if you have a better solution!
 231 | [Power of Two](https://leetcode.com/problems/power-of-two/submissions/1728482315/) | [Java](./Math/power_of_two.java) | _O(1)_ | _O(1)_ | Easy || Math
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Java](./Math/first_bad_version.java) | _O(log n)_ | _O(1)_ | Easy || Binary Search
 326 | [Power of Three](https://leetcode.com/problems/power-of-three/description/) | [Java](./Math/power_of_three.java) | _O(1)_ | _O(1)_ | Easy || Math
+342 | [Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Java](./Math/power_of_four.java) | _O(1)_ | _O(1)_ | Easy || Math
 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | [Java](./Math/valid_perfect_square.java) | _O(n)_ | _O(1)_ | Easy || Math
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [Java](./Math/sum_of_two_integers.java) | _O(n)_ | _O(1)_ | Medium || Math, Bit Manipulation
 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | [Java](./Math/lexicographical_numbers.java) | _O(n)_ | _O(1)_ | Medium || Trie
