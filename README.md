@@ -404,6 +404,7 @@ Please let me know if you have a better solution!
 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/) | [Java](./Math/count_good_numbers.java) | _O(log n)_ | _O(1)_ | Medium || Fast Exponential, Counting
 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/) | [Java](./Math/find_unique_binary_string.java) | _O(n)_ | _O(n)_ | Medium || Cantor's Diagonal Argument
 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/description/) | [Java](./Math/add_two_integers.java) | _O(1)_ | _O(1)_ | Easy || Math, Bit Manipulation
+2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/) | [Java](./Math/number_of_zero-filled_subarrays.java) | _O(n)_ | _O(1)_ | Medium || Math
 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/) | [Java](./Math/bitwise_xor_of_all_pairings.java) | _O(n+m)_ | _O(n+m)_ | Medium || HashMap, Bit Manipulation
 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [Java](./Math/number_of_common_factors.java) | _O(n)_ | _O(1)_ | Medium || Math
 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/) | [Java](./Math/minimize_xor.java) | _O(1)_ | _O(1)_ | Medium || Math, Bit Manipulation
