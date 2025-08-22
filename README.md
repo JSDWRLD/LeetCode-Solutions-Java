@@ -191,6 +191,7 @@ Please let me know if you have a better solution!
 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/) | [Java](./MatrixGrids/count_the_number_of_complete_components.java) | _O(n + m)_ | _O(n)_ | Medium || Union Find
 2737 | [Find the Closest Marked Node](https://leetcode.com/problems/find-the-closest-marked-node/description/) | [Java](./MatrixGrids/find_the_closest_marked_node.java) | _O(vlogv + elogv)_ | _O(v + e)_ | Medium || Dijkstra's Shortest Path
 3108 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/) | [Java](./MatrixGrids/minimum_cost_walk_in_weighted_graph.java) | _O(m + n)_ | _O(n)_ | Hard || Union Find
+3195 | [Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) | [Java](./MatrixGrids/find_the_minimum_area_to_cover_all_ones_i.java) | _O(r * c)_ | _O(1)_ | Medium || Matrix
 3341 | [Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/description/) | [Java](./MatrixGrids/find_minimum_time_to_reach_last_room_i.java) | _O(k * logk)_ | _O(k)_ | Medium || Dijkstra's Shortest Path
 3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/) | [Java](./MatrixGrids/find_minimum_time_to_reach_last_room_ii.java) | _O(k * logk)_ | _O(k)_ | Medium || Dijkstra's Shortest Path
 
