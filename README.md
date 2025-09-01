@@ -377,6 +377,7 @@ Please let me know if you have a better solution!
 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [Java](./Heaps_PQ/k_closest_points_to_origin.java) | _O(n log k)_ | _O(k)_ | Medium || Max-Heap
 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | [Java](./Heaps_PQ/last_stone_weight.java) | _O(n log n)_ | _O(n)_ | Easy || Max-Heap
 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/) | [Java](./Heaps_PQ/least_number_of_unique_integers_after_k_removals.java) | _O(n + k log n)_ | _O(n)_ | Medium || Min-Heap
+1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/) | [Java](./Heaps_PQ/maximum_average_pass_ratio.java) | _O(e log n * n)_ | _O(n)_ | Medium || Max-Heap
 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/) | [Java](./Heaps_PQ/max_sum_of_a_pair_with_equal_sum_of_digits.java) | _O(n log n)_ | _O(n)_ | Medium || Max-Heap, Hashmap
 3066 | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/) | [Java](./Heaps_PQ/minimum_operations_to_exceed_threshold_value_ii.java) | _O(n log n)_ | _O(n)_ | Medium || Min-Heap
 
