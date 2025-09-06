@@ -277,6 +277,7 @@ Please let me know if you have a better solution!
 3330 | [Find the Original String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/) | [Java](./Strings/find_the_original_string_i.java) | _O(n)_ | _O(1)_ | Easy || Strings
 3335 | [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/description/) | [Java](./Strings/total_characters_in_string_after_transformations_i.java) | _O(n + t*k)_ | _O(k)_ | Medium || Strings, Character Frequency
 3403 | [Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/description/) | [Java](./Strings/find_the_lexicographically_largest_string_from_the_box_i.java) | _O(n^2)_ | _O(n)_ | Medium || Enumeration
+3412 | [Find Mirror Score of a String](https://leetcode.com/problems/find-mirror-score-of-a-string/description/) | [Java](./Strings/find_the_mirror_score_of_a_string.java) | _O(n)_ | _O(n)_ | Medium || HashMap
 3456 | [Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k/description/) | [Java](./Strings/find_special_substring_of_length_k.java) | _O(n*k)_ | _O(1)_ | Easy || Strings
 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/) | [Java](./Strings/process_string_with_special_operations_i.java) | _O(n*r)_ | _O(n)_ | Medium || Strings
 
