@@ -224,7 +224,7 @@ Please let me know if you have a better solution!
 ## String
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Java](./Strings/zigzag_conversion.java) | _O(n)_ | _O(n)_ | Medium || Strings, HashMap
+6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Java](./Strings/zigzag_conversion.java) | _O(n)_ | _O(n)_ | Medium || Strings
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Java](./Strings/longest_common_prefix.java) | _O(n * log(n))_ | _O(1)_ | Easy || Strings
 17 | [Number of Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Java](./Strings/number_of_combinations_of_a_phone_number.java) | _O(n * 4^n)_ | _O(n)_ | Medium || Backtracking
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Java](./Strings/generate_parentheses.java) | _O(4^n / sqrt(n))_ | _O(n)_ | Medium || Backtracking, Dynamic Programming
