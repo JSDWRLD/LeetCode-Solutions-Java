@@ -251,6 +251,7 @@ Please let me know if you have a better solution!
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | [Java](./Strings/find_common_characters.java) | _O(n * m)_ | _O(26)_ | Easy || Character Frequency
 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Java](./Strings/remove_all_adjacent_duplicates_in_string.java) | _O(n)_ | _O(n)_ | Easy || Stack
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | [Java](./Strings/longest_common_subsequence.java) | _O(n * m)_ | _O(n * m)_ | Medium || Dynamic Programming, Bottom Up
+1169 | [Invalid Transaction](https://leetcode.com/problems/invalid-transactions/) | [Java](./Strings/invalid_transaction.java) | _O(n^2)_ | _O(n)_ | Medium || Strings
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) | [Java](./Strings/split_a_string_in_balanced_strings.java) | _O(n)_ | _O(1)_ | Easy || Strings
 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [Java](./Strings/construct_k_palindrome_strings.java) | _O(n)_ | _O(1)_ | Medium || Character Frequency
 1422 | [Maximum Score After Splittinga String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) | [Java](./Strings/maximum_score_after_splitting_string.java) | _O(n)_ | _O(1)_ | Easy || Strings
