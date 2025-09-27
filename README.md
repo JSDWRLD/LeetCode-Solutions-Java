@@ -1,4 +1,4 @@
-# [LeetCode Solutions in Java](https://leetcode.com/problemset/all/)
+# LeetCode Solutions in Java
 
 * [My Profile](https://leetcode.com/JSDWRLD/)
 
