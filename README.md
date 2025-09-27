@@ -1,7 +1,6 @@
 # [LeetCode Solutions in Java](https://leetcode.com/problemset/all/)
 
 * [My Profile](https://leetcode.com/JSDWRLD/)
-Please let me know if you have a better solution!
 
 ## Data Structures
 * [Array](https://github.com/JSDWRLD/LeetCode-Solutions-Java#array)
