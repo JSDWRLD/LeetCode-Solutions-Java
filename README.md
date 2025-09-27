@@ -60,6 +60,7 @@ Please let me know if you have a better solution!
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Java](./Arrays/top_k_frequent_elements.java) | _O(n + k)_ | _O(n + k)_ | Medium || Bucket Sort, Arrays, HashMap/Table
 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [Java](./Arrays/non-overlapping_intervals.java) | _O(n log n)_ | _O(1)_ | Medium || Merge Intervals
 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Java](./Arrays/find_all_numbers_disappeared_in_an_array.java) | _O(n)_ | _O(1)_ | Easy || Cyclic Sort
+485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Java](./Arrays/max_consective_ones.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | [Java](./Arrays/random_pick_with_weight.java) | _O(log n)_ | _O(1)_ | Medium || Prefix Sum, Binary Search
 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [Java](./Arrays/distribute_candies.java) | _O(n)_ | _O(n)_ | Easy || HashSet
 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Java](./Arrays/longest_harmonious_subsequence.java) | _O(n)_ | _O(n)_ | Easy || HashMap, Frequency Count
