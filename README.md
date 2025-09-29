@@ -234,6 +234,7 @@
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java](./Strings/valid_palindrome.java) | _O(n)_ | _O(1)_ | Easy || Strings, Two Pointer
 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Java](./Strings/palindrome_partitioning.java) | _O(n * 2^n)_ | _O(n)_ | Medium || Strings, Backtracking
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Java](./Strings/reverse_words_in_a_string.java) | _O(n)_ | _O(n)_ | Medium || Stack, Two Pointers
+211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [Java](./Strings/design_add_and_search_data_structure.java) | _O(m * n)_ | _O(m * n)_ | Medium || Strings, Trie, HashMap
 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [Java](./Strings/shortest_word_distnace.java) | _O(n)_ | _O(1)_ | Easy || Strings, Array
 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Java](./Strings/word_pattern.java) | _O(n)_ | _O(n)_ | Easy || Strings, HashMap
 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](./Strings/reverse_vowels_of_a_string.java) | _O(n)_ | _O(n)_ | Easy || Strings, HashMap
