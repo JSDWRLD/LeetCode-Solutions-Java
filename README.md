@@ -143,7 +143,6 @@
 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/) | [Java](./Arrays/maximum_unique_subarray_sum_after_deletion.java) | _O(n)_ | _O(n)_ | Easy || HashSet, Greedy
 
 
-
 ## Matrix and Graph
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -437,6 +436,7 @@
 3007 | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/) | [Java](./Math/maximum_number_that_sum_of_the_prices.java.java) | _O(log k)_ | _O(log k)_ | Medium || Math, Bit Manipulation, Binary Search
 3021 | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/) | [Java](./Math/alice_and_bob_playing_flower_game.java) | _O(1)_ | _O(1)_ | Medium || Math
 3025 | [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | [Java](./Math/find_the_number_of_ways_to_place_people_i.java) | _O(n^3)_ | _O(1)_ | Medium || Math
+3100 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/) | [Java](./Math/water_bottles_ii.java) | _O(sqrt(n))_ | _O(1)_ | Medium || Math
 3191 | [Minimum Operation to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/) | [Java](./Math/minimum_operation_to_make_binary_array_elements_equal_to_one_i.java) | _O(n)_ | _O(1)_ | Medium ||  Bit Manipulation, Binary Search
 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/description/) | [Java](./Math/find_the_count_of_good_integers.java) | _O(n log n * 10^m)_ | _O(n * 10^m)_ | Hard || Math, Frequency Count, Combinatorics, Permutations, Backtracking
 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/description/) | [Java](./Math/find_closest_person.java) | _O(1)_ | _O(1)_ | Easy ||  Math
