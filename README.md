@@ -79,6 +79,7 @@
 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [Java](./Arrays/subarray_sums_divisible_by_k.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Prefix Sum, HashMap
 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) | [Java](./Arrays/interval_list_intersections.java) | _O(n)_ | _O(n)_ | Medium || Intervals
 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Java](./Arrays/minimum_domino_rotations_for_equal_row.java) | _O(n)_ | _O(1)_ | Medium || Greedy
+1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) | [Java](./Arrays/two_city_scheduling.java) | _O(n log n)_ | _O(1)_ | Medium || Greedy
 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/) | [Java](./Arrays/number_of_equivalent_domino_pairs.java) | _O(n)_ | _O(n)_ | Easy || HashMap
 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/description/) | [Java](./Arrays/distance_between_bus_stops.java) | _O(n)_ | _O(n)_ | Easy || Arrays
 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Java](./Arrays/minimum_absolute_difference.java) | _O(n log n)_ | _O(1)_ | Easy || Arrays
