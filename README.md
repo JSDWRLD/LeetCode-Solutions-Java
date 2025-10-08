@@ -206,7 +206,6 @@
 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](./Maps/two_sum.java) | _O(n)_ | _O(n)_ | Easy || HashMap
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](./Maps/longest_substring_without_repeating_characters.java) | _O(n)_ | _O(m)_ | Medium || HashSet, Sliding Window
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Java](./Maps/group_anagrams.java) | _O(n * k log k)_ | _O(n)_ | Medium || HashMap, ArrayList
-211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [Java](./Maps/design_add_and_search_words_data_structure.java) | _O(n * 26^k)_ | _O(n)_ | Medium || HashMap, Trie
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Java](./Maps/valid_anagram.java) | _O(log n)_ | _O(n + m)_ | Easy || HashMap
 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) | [Java](./Maps/ugly_number_ii.java) | _O(n*m)_ | _O(m)_ | Medium || Set
 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Java](./Maps/longest_palindrome.java) | _O(n)_ | _O(1)_ | Easy || HashSet
@@ -236,7 +235,7 @@
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java](./Strings/valid_palindrome.java) | _O(n)_ | _O(1)_ | Easy || Strings, Two Pointer
 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Java](./Strings/palindrome_partitioning.java) | _O(n * 2^n)_ | _O(n)_ | Medium || Strings, Backtracking
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Java](./Strings/reverse_words_in_a_string.java) | _O(n)_ | _O(n)_ | Medium || Stack, Two Pointers
-211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [Java](./Strings/design_add_and_search_data_structure.java) | _O(m * n)_ | _O(m * n)_ | Medium || Strings, Trie, HashMap
+211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [Java](./Strings/design_add_and_search_data_structure.java) | _O(n * 26^k)_ | _O(n)_ | Medium || Strings, Trie, HashMap
 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [Java](./Strings/shortest_word_distnace.java) | _O(n)_ | _O(1)_ | Easy || Strings, Array
 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Java](./Strings/word_pattern.java) | _O(n)_ | _O(n)_ | Easy || Strings, HashMap
 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](./Strings/reverse_vowels_of_a_string.java) | _O(n)_ | _O(n)_ | Easy || Strings, HashMap
