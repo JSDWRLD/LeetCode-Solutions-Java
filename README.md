@@ -206,6 +206,7 @@
 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](./Maps/two_sum.java) | _O(n)_ | _O(n)_ | Easy || HashMap
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](./Maps/longest_substring_without_repeating_characters.java) | _O(n)_ | _O(m)_ | Medium || HashSet, Sliding Window
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Java](./Maps/group_anagrams.java) | _O(n * k log k)_ | _O(n)_ | Medium || HashMap, ArrayList
+211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [Java](./Maps/design_add_and_search_words_data_structure.java) | _O(n * 26^k)_ | _O(n)_ | Medium || HashMap, Trie
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Java](./Maps/valid_anagram.java) | _O(log n)_ | _O(n + m)_ | Easy || HashMap
 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) | [Java](./Maps/ugly_number_ii.java) | _O(n*m)_ | _O(m)_ | Medium || Set
 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Java](./Maps/longest_palindrome.java) | _O(n)_ | _O(1)_ | Easy || HashSet
