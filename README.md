@@ -238,6 +238,7 @@
 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [Java](./Strings/design_add_and_search_data_structure.java) | _O(n * 26^k)_ | _O(n)_ | Medium || Strings, Trie, HashMap
 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [Java](./Strings/shortest_word_distnace.java) | _O(n)_ | _O(1)_ | Easy || Strings, Array
 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Java](./Strings/word_pattern.java) | _O(n)_ | _O(n)_ | Easy || Strings, HashMap
+301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | [Java](./Strings/remove_invalid_parentheses.java) | _O(2^n)_ | _O(n)_ | Hard || Strings, Set, Backtracking
 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](./Strings/reverse_vowels_of_a_string.java) | _O(n)_ | _O(n)_ | Easy || Strings, HashMap
 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Java](./Strings/ransom_note.java) | _O(n)_ | _O(n)_ | Easy || Strings, HashMap
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Java](./Strings/first_unique_character_in_a_string.java) | _O(n)_ | _O(1)_ | Easy || Strings, Two Pointers
