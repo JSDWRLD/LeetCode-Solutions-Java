@@ -103,6 +103,7 @@
 1756 | [Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/description/) | [Java](./Arrays/design_most_recently_used_queue.java) | _O(n)_ | _O(n)_ | Medium || Object Oriented Design
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Java](./Arrays/maximum_ascending_subarray_sum.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 1868 | [Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/) | [Java](./Arrays/product_of_two_run_length_encoded_arrays.java) | _O(n)_ | _O(n)_ | Medium || Arrays, Two Pointers
+1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) | [Java](./Arrays/minimize_maximum_pair_sum_in_array.java) | _O(n log n)_ | _O(log n)_ | Medium || Arrays, Two Pointers, Sorting
 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/) | [Java](./Arrays/maximum_difference_between_increasing_elements.java) | _O(n)_ | _O(1)_ | Easy || Arrays
 2017 | [Grid Game](https://leetcode.com/problems/grid-game/description/) | [Java](./Arrays/grid_game.java) | _O(n)_ | _O(1)_ | Medium || Arrays, Prefix Sum
 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Java](./Arrays/finding_3_digit_even_numbers.java) | _O(n)_ | _O(1)_ | Medium || Freqeuncy Count
