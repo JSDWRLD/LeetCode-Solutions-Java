@@ -447,6 +447,7 @@
 3100 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/) | [Java](./Math/water_bottles_ii.java) | _O(sqrt(n))_ | _O(1)_ | Medium || Math
 3191 | [Minimum Operation to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/) | [Java](./Math/minimum_operation_to_make_binary_array_elements_equal_to_one_i.java) | _O(n)_ | _O(1)_ | Medium ||  Bit Manipulation, Binary Search
 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/description/) | [Java](./Math/find_the_count_of_good_integers.java) | _O(n log n * 10^m)_ | _O(n * 10^m)_ | Hard || Math, Frequency Count, Combinatorics, Permutations, Backtracking
+3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | [Java](./Math/smallest_number_with_all_set_bits.java) | _O(n)_ | _O(1)_ | Easy ||  Math
 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/description/) | [Java](./Math/find_closest_person.java) | _O(1)_ | _O(1)_ | Easy ||  Math
 
 ## Dynamic Programming
