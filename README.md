@@ -132,6 +132,7 @@
 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/description/) | [Java](./Arrays/special_array_i.java) | _O(n)_ | _O(1)_ | Easy || None
 3169 | [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/) | [Java](./Arrays/count_days_without_mettings.java) | _O(n log n)_ | _O(n)_ | Medium || Sorting, Merge Intervals
 3201 | [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/) | [Java](./Arrays/find_the_maximum_length_of_valid_subsequence_i.java) | _O(n)_ | _O(1)_ | Medium || Enumeration
+3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [Java](./Arrays/the_two_sneaky_numbers_of_digitville.java) | _O(n)_ | _O(n)_ | Easy || Array
 3349 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/description/) | [Java](./Arrays/adjacent_increasing_subarrays_detection_i.java) | _O(n)_ | _O(1)_ | Easy || Math
 3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/) | [Java](./Arrays/zero_array_transformation_ii.java) | _O(n * m)_ | _O(n)_ | Medium || None
 3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/) | [Java](./Arrays/minimum_operations_to_make_array_values_equal_to_k.java) | _O(n)_ | _O(n)_ | Easy || HashSet
