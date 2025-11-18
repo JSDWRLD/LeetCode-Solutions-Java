@@ -421,6 +421,7 @@
 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) | [Java](./Math/k-th_smallest_in_lexicographical_order.java) | _O(log n ^ 2)_ | _O(1)_ | Hard || Trie
 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [Java](./Math/binary_number_with_alternating_bits.java) | _O(n)_ | _O(1)_ | Easy || Bit manipulation
 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./Math/count_binary_substrings.java) | _O(n)_ | _O(1)_ | Medium || Math
+717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Java](./Math/1-bit_and_2-bit_characters.java) | _O(n)_ | _O(1)_ | Easy || Math
 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) | [Java](./Math/reordered_power_of_2.java) | _O(log n)_ | _O(log n)_ | Medium || Math
 1274 | [Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/) | [Java](./Math/number_of_ships_in_a_rectangle.java) | _O(s * log(max(m,n))_ | _O(log(max(m,n))_ | Hard || Math, Backtracking
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | [Java](./Math/find_numbers_with_even_number_of_digits.java) | _O(n)_ | _O(1)_ | Medium || Math, Logs
